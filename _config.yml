@@ -1,0 +1,10 @@
+name: "David Phillips - A website in 2 parts"
+description: ""
+
+url: "http://davidphillips.us"
+
+paginate: 2
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
