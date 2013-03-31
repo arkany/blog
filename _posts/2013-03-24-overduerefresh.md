@@ -3,15 +3,14 @@ title: The Much Needed Overhaul
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
-tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
-t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
-erdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius n\
-ibh eu diam tempor rhoncus.
+Hello and welcome / welcome back!  This site was in need of an overhaul after my intial oh god oh god, I need a portfolio days.  This will be hopefully updated at least monthly, if not more for the coming months.
 
-## Pellentesque sollicitudin
+## And I have what to look forward to...
 
-Erat pellentesque ornare gravida, ipsum est luctus neque, eget condimentum \
-urna arcu sit amet felis. Duis nisl augue, scelerisque quis iaculis non, co\
-mmodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia\
- nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper. 
+So very glad you asked.
+
+* Pebble Review
+* High Fructose Zombie Updates
+* Portfolio Refresh
+* Random Insights
+* Hey man, what else were you expecting?
