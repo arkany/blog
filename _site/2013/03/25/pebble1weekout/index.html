@@ -8,7 +8,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Noto+Serif:400,700,400italic,700italic|Poly:400,400italic|Vollkorn:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
 
     <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  
+    <script src="../js/vendor/custom.modernizr.js"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -75,6 +75,18 @@ itae. Fusce ante ligula, cursus eget volutpat vel, pretium eget tellus.</p>
     		<i class="foundicon-email"></i>
     	</div>
     </div>	
-
+    <!-- Check for Zepto support, load jQuery if necessary -->
+    <!--script>
+      document.write('<script src=../js/vendor/'
+        + ('__proto__' in {} ? 'zepto' : 'jquery')
+        + '.js><\/script>');
+    </script-->
+    <script type="text/javascript" src="../js/vendor/jquery.js"></script>
+    <script type="text/javascript" src="../js/vendor/grid.js"></script>
+    <script>
+    $(function() {
+        Grid.init();
+    });
+</script>
   </body>
 </html>

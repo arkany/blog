@@ -1,66 +1,19 @@
 {% include header.html %}
-<div class="row">
-	<div class="portfolio large-12 columns">
-		<h1>{{ page.title }}</h1>
+<div>
+	<div class="portfolio">
+		<!-- <h1>{{ page.title }}</h1> -->
 
-		<ul class="small-block-grid-1 large-block-grid-3">
-			{% for pic in page.pictures limit: 3 %}
-			<li><img src="{{pic.thumb}}"></li>
+		<ul id="og-grid" class="og-grid">
+			{% for pic in page.pictures %}
+			<li>
+				<a href="http://cargocollective.com/jaimemartinez/" data-largesrc="{{pic.full}}" data-title="{{pic.label}}" data-description="{{ pic.description }}">
+					<img src="{{pic.thumb}}" alt="img01"/>
+				</a>
+			</li>
 			{% endfor %}
 		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-			{% for pic in page.pictures2 limit: 3 %}
-			<li><img src="{{pic.thumb}}"></li>
-			{% endfor %}
-		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-			{% for pic in page.pictures3 limit: 3 %}
-			<li><img src="{{pic.thumb}}"></li>
-			{% endfor %}
-		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-			{% for pic in page.pictures4 limit: 3 %}
-			<li><img src="{{pic.thumb}}"></li>
-			{% endfor %}
-		</ul>
-
-
-		<!-- Using both block grids together for different layouts -->
-		<!-- <ul class="small-block-grid-1 large-block-grid-3">
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-			{% for pic in pictures.pic limit: 3 %}
-			<li>{{pic.thumb}}</li>
-			{% endfor %}
-		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		</ul>
-
-		<ul class="small-block-grid-1 large-block-grid-3">
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		  <li><img src="http://placehold.it/600x350"></li>
-		</ul>
- -->
 
 	</div>
 	
-
-	<!-- <div class="content large-9 columns">
-		<h1>{{ page.title }}</h1>
-		<p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
-	  {{ content }}
-	</div> -->
 </div>
 {% include footer.html %}
