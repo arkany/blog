@@ -72,6 +72,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/img\/gallery\/2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
+      "initialSize" : 24404,
+      "fileType" : 4096
+    },
     "\/docs\/img\/demos\/demo2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -146,15 +157,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/lib\/foundation\/generators\/templates\/application.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml" : {
       "inputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml",
       "outputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.html",
@@ -171,6 +173,26 @@
       "fileType" : 256,
       "outputStyle" : 0
     },
+    "\/lib\/foundation\/generators\/templates\/application.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/bam.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/bam.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/bam.png",
+      "initialSize" : 57955,
+      "fileType" : 8192
+    },
     "\/lib\/foundation\/generators\/templates\/application.html.haml" : {
       "inputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.haml",
       "outputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.html",
@@ -186,17 +208,6 @@
       "hidden" : 0,
       "fileType" : 256,
       "outputStyle" : 0
-    },
-    "\/img\/bam.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/bam.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/bam.png",
-      "initialSize" : 57955,
-      "fileType" : 8192
     },
     "\/_site\/docs\/components\/section.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -236,16 +247,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/js\/foundation\/foundation.cookie.js" : {
-      "ignoreWasSetByUser" : 1,
+    "\/docs\/_sidebar.html.erb" : {
+      "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.cookie.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.cookie-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/docs\/_sidebar.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/js\/foundation\/foundation.reveal.js" : {
       "ignoreWasSetByUser" : 1,
@@ -267,14 +276,16 @@
       "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
     },
-    "\/docs\/_sidebar.html.erb" : {
-      "ignoreWasSetByUser" : 0,
+    "\/js\/foundation\/foundation.cookie.js" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/_sidebar.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.cookie.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.cookie-ck.js",
+      "fileType" : 64
     },
     "\/scss\/foundation\/components\/_block-grid.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -306,21 +317,23 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/Gruntfile.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Gruntfile.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Gruntfile-ck.js",
+      "fileType" : 64
+    },
     "\/_site\/docs\/layout.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/docs\/layout.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/components\/pricing-tables.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pricing-tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -354,6 +367,33 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/stylesheets\/screen.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/stylesheets\/screen.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_site\/docs\/components\/pricing-tables.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pricing-tables.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/tooltips.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/tooltips.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/scss\/foundation\/components\/_reveal.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -365,35 +405,6 @@
       "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_reveal.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/docs\/components\/tooltips.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/tooltips.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/Gruntfile.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Gruntfile.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Gruntfile-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/stylesheets\/screen.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/stylesheets\/screen.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/_site\/docs\/rails.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -425,12 +436,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/side-nav.html.erb" : {
+    "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/side-nav.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -445,15 +456,6 @@
       "outputAbbreviatedPath" : "\/_site\/docs\/js\/qunit-composite-ck.js",
       "fileType" : 64
     },
-    "\/_site\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/docs\/components\/thumbnails.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -462,6 +464,26 @@
       "inputAbbreviatedPath" : "\/docs\/components\/thumbnails.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/docs\/components\/side-nav.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/side-nav.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/img\/demos\/demo5.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
+      "initialSize" : 160322,
+      "fileType" : 4096
     },
     "\/_site\/scss\/screen.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -474,17 +496,6 @@
       "outputAbbreviatedPath" : "\/_site\/css\/screen.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/docs\/img\/demos\/demo5.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
-      "initialSize" : 160322,
-      "fileType" : 4096
     },
     "\/_site\/docs\/components\/reveal.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -525,6 +536,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/img\/gallery\/1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
+      "initialSize" : 25875,
+      "fileType" : 4096
+    },
     "\/docs\/components\/alert-boxes.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -542,6 +564,18 @@
       "inputAbbreviatedPath" : "\/_site\/docs\/javascript.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/docs\/css\/normalize.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/docs\/components\/kitchen-sink.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -561,18 +595,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/_site\/docs\/css\/docs.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/css\/normalize.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -846,6 +868,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/img\/gallery\/thumbs\/3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
+      "initialSize" : 27725,
+      "fileType" : 4096
+    },
     "\/js\/foundation\/foundation.magellan.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -955,6 +988,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/page2\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/page2\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/js\/foundation\/foundation.topbar.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -978,15 +1020,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/sub-nav.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/sub-nav.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/scss\/foundation\/components\/_keystrokes.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -999,12 +1032,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/page2\/index.html" : {
+    "\/docs\/components\/sub-nav.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/page2\/index.html",
+      "inputAbbreviatedPath" : "\/docs\/components\/sub-nav.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1179,6 +1212,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/docs\/components\/block-grid.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/block-grid.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/docs\/img\/demos\/demo3-th.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1189,15 +1231,6 @@
       "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo3-th.jpg",
       "initialSize" : 3747,
       "fileType" : 4096
-    },
-    "\/docs\/components\/block-grid.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/block-grid.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/project\/scss\/_settings.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1259,35 +1292,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/js\/foundation\/foundation.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation-ck.js",
-      "fileType" : 64
-    },
-    "\/scss\/foundation\/components\/_alert-boxes.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_alert-boxes.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_alert-boxes.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/components\/dropdown-buttons.html.erb" : {
+    "\/_includes\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown-buttons.html.erb",
+      "inputAbbreviatedPath" : "\/_includes\/footer.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1300,6 +1310,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/docs\/components\/dropdown-buttons.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown-buttons.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/docs\/components\/dropdown.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1308,6 +1327,27 @@
       "inputAbbreviatedPath" : "\/docs\/components\/dropdown.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/docs\/index.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/index.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/foundation\/components\/_breadcrumbs.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_breadcrumbs.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_breadcrumbs.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/js\/vendor\/custom.modernizr.js" : {
       "ignoreWasSetByUser" : 1,
@@ -1344,17 +1384,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/js\/foundation\/foundation.section.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.section.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.section-ck.js",
-      "fileType" : 64
-    },
     "\/_site\/docs\/components\/breadcrumbs.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1388,12 +1417,23 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/docs\/index.html.erb" : {
+    "\/js\/foundation\/foundation.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation-ck.js",
+      "fileType" : 64
+    },
+    "\/_site\/docs\/components\/flex-video.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/index.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/flex-video.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1407,15 +1447,6 @@
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/js\/foundation\/index-ck.js",
       "fileType" : 64
-    },
-    "\/_site\/docs\/components\/flex-video.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/flex-video.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/docs\/components\/joyride.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -1464,26 +1495,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_includes\/footer.html" : {
+    "\/js\/foundation\/foundation.section.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.section.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.section-ck.js",
+      "fileType" : 64
+    },
+    "\/docs\/components\/keystrokes.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/footer.html",
+      "inputAbbreviatedPath" : "\/docs\/components\/keystrokes.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_button-groups.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_button-groups.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_button-groups.css",
-      "fileType" : 4,
-      "debugStyle" : 0
     },
     "\/docs\/css\/qunit-composite.css" : {
       "ignoreWasSetByUser" : 1,
@@ -1515,14 +1545,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/keystrokes.html.erb" : {
+    "\/scss\/foundation\/components\/_button-groups.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/keystrokes.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_button-groups.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_button-groups.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1530,6 +1563,57 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/changelog.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/changelog.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/js\/docs.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/js\/docs.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/docs\/js\/docs-ck.js",
+      "fileType" : 64
+    },
+    "\/js\/foundation\/foundation.joyride.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.joyride.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.joyride-ck.js",
+      "fileType" : 64
+    },
+    "\/img\/gallery\/thumbs\/2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/2.jpg",
+      "initialSize" : 16397,
+      "fileType" : 4096
+    },
+    "\/_site\/docs\/media-queries.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/media-queries.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1545,16 +1629,23 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/js\/docs.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/docs\/components\/buttons.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/js\/docs.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/docs\/js\/docs-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/docs\/components\/buttons.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/components\/alert-boxes.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/alert-boxes.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/docs\/img\/demos\/demo5-th.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1567,65 +1658,6 @@
       "initialSize" : 3737,
       "fileType" : 4096
     },
-    "\/js\/foundation\/foundation.joyride.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.joyride.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.joyride-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/docs\/components\/alert-boxes.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/alert-boxes.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/components\/buttons.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/buttons.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/media-queries.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/media-queries.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/changelog.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/changelog.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_breadcrumbs.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_breadcrumbs.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_breadcrumbs.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/docs\/components\/clearing.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1634,6 +1666,18 @@
       "inputAbbreviatedPath" : "\/docs\/components\/clearing.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/scss\/foundation\/components\/_alert-boxes.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_alert-boxes.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_alert-boxes.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/scss\/foundation\/components\/_top-bar.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1647,21 +1691,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/pagination.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/pagination.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/docs\/components\/block-grid.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/block-grid.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/pagination.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/pagination.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1774,6 +1818,15 @@
       "outputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips-ck.js",
       "fileType" : 64
     },
+    "\/_site\/docs\/components\/button-groups.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/button-groups.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/scss\/foundation\/components\/_orbit.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1786,21 +1839,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/docs\/components\/button-groups.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/button-groups.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/docs\/components\/switch.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/switch.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/progress-bars.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/progress-bars.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1813,27 +1866,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/_site\/css\/style.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/components\/progress-bars.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/progress-bars.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_type.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_type.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_type.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1874,6 +1906,18 @@
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/sub-nav.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/scss\/foundation\/components\/_type.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_type.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_type.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/docs\/components\/button-groups.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -1937,6 +1981,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/docs\/components\/global.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/global.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/scss\/_settings.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1949,15 +2002,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/global.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/global.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/docs\/changelog.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1966,6 +2010,17 @@
       "inputAbbreviatedPath" : "\/docs\/changelog.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/img\/gallery\/3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/3.jpg",
+      "initialSize" : 42767,
+      "fileType" : 4096
     },
     "\/scss\/foundation\/components\/_panels.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2035,21 +2090,23 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/js\/foundation\/foundation.dropdown.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.dropdown.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.dropdown-ck.js",
+      "fileType" : 64
+    },
     "\/docs\/components\/visibility.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/docs\/components\/visibility.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/components\/joyride.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/joyride.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2065,16 +2122,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/js\/foundation\/foundation.dropdown.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/_site\/docs\/components\/joyride.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.dropdown.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.dropdown-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/joyride.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/docs\/media-queries.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -2126,6 +2181,15 @@
       "outputAbbreviatedPath" : "\/js\/foundation\/foundation.clearing-ck.js",
       "fileType" : 64
     },
+    "\/_site\/docs\/components\/orbit.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/orbit.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/docs\/components\/switch.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2135,12 +2199,32 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/docs\/components\/orbit.html.erb" : {
+    "\/_site\/docs\/css\/qunit.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/orbit.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/img\/header4.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/header4.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header4.png",
+      "initialSize" : 745555,
+      "fileType" : 8192
+    },
+    "\/docs\/components\/inline-lists.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/inline-lists.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2155,41 +2239,32 @@
       "initialSize" : 339591,
       "fileType" : 4096
     },
-    "\/_site\/docs\/css\/qunit.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/docs\/components\/inline-lists.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/inline-lists.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/header4.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/header4.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header4.png",
-      "initialSize" : 745555,
-      "fileType" : 8192
-    },
     "\/templates\/project\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/project\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
+      "initialSize" : 11439,
+      "fileType" : 4096
+    },
+    "\/_layouts\/default.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2204,15 +2279,6 @@
       "outputAbbreviatedPath" : "\/templates\/project\/css\/normalize.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/_layouts\/default.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/docs\/components\/breadcrumbs.html.erb" : {
       "ignoreWasSetByUser" : 0,
