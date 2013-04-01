@@ -7,6 +7,18 @@
     		<i class="foundicon-email"></i>
     	</div>
     </div>	
-
+    <!-- Check for Zepto support, load jQuery if necessary -->
+    <!--script>
+      document.write('<script src=../js/vendor/'
+        + ('__proto__' in {} ? 'zepto' : 'jquery')
+        + '.js><\/script>');
+    </script-->
+    <script type="text/javascript" src="../js/vendor/jquery.js"></script>
+    <script type="text/javascript" src="../js/vendor/grid.js"></script>
+    <script>
+    $(function() {
+        Grid.init();
+    });
+</script>
   </body>
 </html>

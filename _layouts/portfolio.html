@@ -1,0 +1,19 @@
+{% include header.html %}
+<div>
+	<div class="portfolio">
+		<!-- <h1>{{ page.title }}</h1> -->
+
+		<ul id="og-grid" class="og-grid">
+			{% for pic in page.pictures %}
+			<li>
+				<a href="{{ pic.url }}" data-largesrc="../img/gallery/{{pic.full}}" data-title="{{pic.label}}" data-description="{{ pic.description }}">
+					<img src="../img/gallery/thumbs/{{pic.thumb}}" alt="img01"/>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+
+	</div>
+	
+</div>
+{% include footer.html %}
