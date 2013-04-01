@@ -1,14 +1,21 @@
 ---
-title: Pebble - 1 Week In
+title: Pebble - 2 Weeks In
 layout: post
 ---
 
-Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
-c nisi mattis mollis tempus id nulla. In varius fermentum posuere. Vivamus \
-suscipit accumsan arcu ac ullamcorper. Aliquam adipiscing, ante non eleifen\
-d blandit, nunc diam vulputate augue, eu convallis lorem lacus in lacus. Cu\
-rabitur ultricies ultrices diam, vel tincidunt dui rhoncus a. Vivamus at sa\
-pien in turpis consequat pharetra sit amet quis elit.
+I got my Pebble about two weeks ago and while there has been a lot of great blogs about Pebble thus far (see XXX, YYY, and ZZZ), I just wanted to throw in 3 perspectives here that I haven't seen anywhere else.
+
+First things first: 
+
+##Watch Design from an Accessories Designer
+
+My wife used to be an Accessories Designer at a company that made watches and belts, among other things.  Maybe it's cuz she's my wife and I think she's brilliant, but she made some awesome points
+
+* **A Man's Watch** - Immediately after she put it on, she said, "Well, this is clearly made for a man." The average wrist size of a woman is XXX, but the watch is XXX.  A more unisex style would be the XXX, for comparison.
+
+* **Wriststrap Trending** - I saw a few complaints on the web regarding the wriststrap looking ugly, but the material they used was apparently rather trendy.  
+
+* **Big Ol Buttons** - The buttons seemed rather large, but that's entirely due to the expense.  Smaller buttons that still work effectively would require a mold from steel rather than rubber, which is a difference of tens of thousands of dollars. 
 
 ## Nam vel justo ut nisl rutrum lobortis
 
