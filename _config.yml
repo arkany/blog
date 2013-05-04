@@ -3,7 +3,7 @@ description: ""
 
 url: "http://davidphillips.us"
 
-paginate: 2
+paginate: 3
 
 markdown: rdiscount
 permalink: pretty

@@ -1,5 +1,5 @@
 ---
-title: Third Post
+title: High Fructose Updates
 layout: post
 ---
 

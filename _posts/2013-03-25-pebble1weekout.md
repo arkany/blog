@@ -15,7 +15,7 @@ My wife used to be an Accessories Designer at a company that made watches and be
 
 * **Wriststrap Trending** - I saw a few complaints on the web regarding the wriststrap looking ugly, but the material they used was apparently rather trendy.  
 
-* **Big Ol Buttons** - The buttons seemed rather large, but that's entirely due to the expense.  Smaller buttons that still work effectively would require a mold from steel rather than rubber, which is a difference of tens of thousands of dollars. 
+* **Big Ol Buttons** - The buttons seemed rather large, when in comparison to an iPod Nano for example, but that's entirely due to the expense.  Smaller buttons that still work effectively would require a mold from steel rather than rubber, which is a difference of tens of thousands of dollars. 
 
 ## Nam vel justo ut nisl rutrum lobortis
 
