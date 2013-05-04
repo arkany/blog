@@ -41,14 +41,20 @@ a, i{
 
 
 div.sidebar{
+	font-family: 'Poly', sans-serif;
 	div#about-img{
 		background-image: url('/img/bam.png');
-		max-width: 237px;
+		max-width: 200px;
 		background-size: 100%;
 		height: 260px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: center left;
 	}
+	h3, 
+	ul{
+		display:none;
+	}
+
 }
 
 div.content {
@@ -67,7 +73,7 @@ div.content {
 	}
 
 	h3{
-		font-size: 4em;
+		font-size: $h1-font-size;
 		margin-bottom: 1px;
 		font-family: 'Poly', sans-serif;
 		margin-top: 67px;
@@ -85,10 +91,16 @@ div.content {
 		font-weight: normal;
 		font-size: 1.5em;
 		line-height: 1.7;
+<<<<<<< HEAD
 		margin-bottom: 1.5em;
+=======
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
 		text-rendering: optimizeLegibility;
 		color: #555555;
 		word-spacing: 0.1em;
+		&:last-child{
+			margin-bottom: 3.25em;
+		}
 	}
 
 	li{
@@ -167,7 +179,7 @@ div.header{
 
 	a.brand{
 		background-image: url('/img/dp.png');
-		font-size: 60px;
+		font-size: 90px;
 		letter-spacing: 0.1em;
 		font-weight: 900;
 		text-transform: uppercase;
