@@ -1498,6 +1498,15 @@
       "fileType" : 4096
     },
     "\/_site\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/css\/qunit-composite.css" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1521,10 +1530,45 @@
       "debugStyle" : 0
     },
     "\/js\/foundation\/foundation.cookie.js" : {
+=======
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit-composite.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/docs\/media-queries.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/media-queries.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/grid.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/grid.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/rails.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/rails.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/js\/foundation\/foundation.magellan.js" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/js\/foundation\/foundation.cookie.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
@@ -1532,10 +1576,20 @@
       "fileType" : 64
     },
     "\/_site\/docs\/components\/tooltips.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan-ck.js",
+      "fileType" : 64
+    },
+    "\/server\/img\/gallery\/mobintent.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/tooltips.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -1565,116 +1619,6 @@
       "debugStyle" : 0
     },
     "\/_site\/docs\/components\/dropdown.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown.html.erb",
-=======
-      "inputAbbreviatedPath" : "\/_site\/index.html",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/css\/qunit-composite.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit-composite.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/docs\/media-queries.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/media-queries.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-<<<<<<< HEAD
-    "\/docs\/_sidebar-components.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/_sidebar-components.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/js\/tests\/tabs\/simple_tabs.html" : {
-=======
-    "\/docs\/components\/grid.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tabs\/simple_tabs.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/changelog.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/components\/grid.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/rails.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/changelog.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/foundation\/foundation.section.js" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/rails.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/foundation\/foundation.magellan.js" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.section.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.section-ck.js",
-      "fileType" : 64
-    },
-    "\/img\/gallery\/the-rig.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan-ck.js",
-      "fileType" : 64
-    },
-    "\/server\/img\/gallery\/mobintent.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/the-rig.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/the-rig.jpg",
-      "initialSize" : 380463,
-      "fileType" : 4096
-    },
-    "\/scss\/foundation\/components\/_magellan.scss" : {
 =======
       "inputAbbreviatedPath" : "\/server\/img\/gallery\/mobintent.jpg",
       "processed" : 0,
@@ -1685,18 +1629,15 @@
     "\/img\/gallery\/thumbs\/apple.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_magellan.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_magellan.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/img\/bam.png" : {
+    "\/_site\/docs\/components\/clearing.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/apple.jpg",
       "processed" : 0,
@@ -1711,13 +1652,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/bam.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/bam.png",
-      "initialSize" : 57955,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/clearing.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/scss\/foundation\/components\/_button-groups.scss" : {
+    "\/docs\/_sidebar-components.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/pystache.jpg",
       "processed" : 0,
@@ -1732,30 +1671,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_button-groups.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_button-groups.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/docs\/_sidebar-components.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml" : {
-      "inputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml",
-      "outputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.html",
-      "outputPathIsSetByUser" : 0,
-      "escapeHTMLCharacters" : 0,
-      "useUnixNewlines" : 0,
-      "useCDATA" : 0,
-      "ignore" : 0,
-      "noEscapeInAttributes" : 0,
-      "outputFormat" : 2,
-      "useDoubleQuotes" : 0,
-      "ignoreWasSetByUser" : 0,
-      "hidden" : 0,
-      "fileType" : 256,
-      "outputStyle" : 0
-    },
-    "\/_site\/docs\/components\/flex-video.html.erb" : {
+    "\/docs\/js\/tests\/tabs\/simple_tabs.html" : {
 =======
       "inputAbbreviatedPath" : "\/scss\/foundation\/_foundation-global.scss",
       "outputStyle" : 0,
@@ -1771,11 +1691,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/flex-video.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tabs\/simple_tabs.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/docs\/components\/button-groups.html.erb" : {
+    "\/docs\/changelog.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/faq.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -1788,55 +1708,32 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/button-groups.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/changelog.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/social_foundicons_ie7.scss" : {
+    "\/js\/foundation\/foundation.section.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.section.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.section-ck.js",
+      "fileType" : 64
+    },
+    "\/img\/gallery\/the-rig.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/server\/page2\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/server\/scss\/normalize.scss" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/social_foundicons_ie7.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/social_foundicons_ie7.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/foundation\/components\/_dropdown.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_dropdown.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_dropdown.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/js\/foundation\/foundation.placeholder.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.placeholder.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.placeholder-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/docs\/css\/normalize.scss" : {
-=======
       "inputAbbreviatedPath" : "\/server\/scss\/normalize.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -1851,28 +1748,18 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/gallery\/the-rig.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/the-rig.jpg",
+      "initialSize" : 380463,
+      "fileType" : 4096
     },
-    "\/docs\/css\/qunit.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/css\/qunit.css",
+    "\/scss\/foundation\/components\/_magellan.scss" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/support.html.erb",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 2048
     },
-<<<<<<< HEAD
-    "\/scss\/foundation\/components\/_pricing-tables.scss" : {
-=======
     "\/templates\/project\/scss\/_settings.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
@@ -1880,14 +1767,14 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_pricing-tables.scss",
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_magellan.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_pricing-tables.css",
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_magellan.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/img\/gallery\/food-ordering.jpg" : {
+    "\/img\/bam.png" : {
 =======
       "inputAbbreviatedPath" : "\/templates\/project\/scss\/_settings.scss",
       "outputStyle" : 0,
@@ -1915,33 +1802,13 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/food-ordering.jpg",
+      "inputAbbreviatedPath" : "\/img\/bam.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/food-ordering.jpg",
-      "initialSize" : 63256,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/img\/bam.png",
+      "initialSize" : 57955,
+      "fileType" : 8192
     },
-    "\/docs\/js\/qunit.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/js\/qunit.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/docs\/js\/qunit-ck.js",
-      "fileType" : 64
-    },
-    "\/docs\/components\/pagination.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/pagination.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/components\/joyride.html.erb" : {
+    "\/scss\/foundation\/components\/_button-groups.scss" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/panels.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -1950,15 +1817,28 @@
     "\/scss\/foundation\/components\/_dropdown-buttons.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/joyride.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_button-groups.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_button-groups.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
-    "\/_site\/docs\/layout.html.erb" : {
+    "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml" : {
+      "inputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.haml",
+      "outputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.html",
+      "outputPathIsSetByUser" : 0,
+      "escapeHTMLCharacters" : 0,
+      "useUnixNewlines" : 0,
+      "useCDATA" : 0,
+      "ignore" : 0,
+      "noEscapeInAttributes" : 0,
+      "outputFormat" : 2,
+      "useDoubleQuotes" : 0,
 =======
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_dropdown-buttons.scss",
       "outputStyle" : 0,
@@ -1968,42 +1848,10 @@
       "debugStyle" : 0
     },
     "\/server\/2013\/03\/26\/thirdpost\/index.html" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/layout.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/lib\/foundation\/generators\/templates\/application.html.slim" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.slim",
-      "outputStyle" : 1,
-      "railsCompatible" : 0,
-      "outputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.html",
-      "compileOnly" : 0,
-      "fileType" : 1024,
-      "logicless" : 0
-    },
-    "\/img\/gallery\/2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
-      "initialSize" : 24404,
-      "fileType" : 4096
-    },
-    "\/docs\/sass.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/server\/2013\/03\/26\/thirdpost\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -2014,68 +1862,13 @@
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/sass.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/pystache.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/pystache.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/pystache.png",
-      "initialSize" : 173595,
-      "fileType" : 8192
-    },
-    "\/docs\/components\/labels.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/labels.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/img\/demos\/demo3-th.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo3-th.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo3-th.jpg",
-      "initialSize" : 3747,
-      "fileType" : 4096
-    },
-    "\/_includes\/sidebar.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/sidebar.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/img\/demos\/demo1-th.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo1-th.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo1-th.jpg",
-      "initialSize" : 3178,
-      "fileType" : 4096
-    },
-    "\/img\/gallery\/upcoming.jpg" : {
-=======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/alert-boxes.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
+    "\/_site\/docs\/components\/flex-video.html.erb" : {
+=======
     "\/_site\/scss\/social_foundicons_ie7.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2101,20 +1894,10 @@
       "debugStyle" : 0
     },
     "\/_site\/docs\/components\/button-groups.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/upcoming.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/upcoming.jpg",
-      "initialSize" : 42944,
-      "fileType" : 4096
-    },
-    "\/_site\/docs\/components\/buttons.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/button-groups.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -2126,7 +1909,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/buttons.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/flex-video.html.erb",
 =======
       "inputAbbreviatedPath" : "\/server\/stylesheets\/screen.css",
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
@@ -2134,7 +1917,7 @@
       "fileType" : 16
     },
 <<<<<<< HEAD
-    "\/docs\/components\/dropdown-buttons.html.erb" : {
+    "\/docs\/components\/button-groups.html.erb" : {
 =======
     "\/img\/gallery\/thumbs\/food-ordering.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2177,11 +1960,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/dropdown-buttons.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/button-groups.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/docs\/components\/dropdown-buttons.html.erb" : {
+    "\/scss\/social_foundicons_ie7.scss" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/components\/orbit.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -2190,25 +1973,50 @@
     "\/_site\/docs\/components\/custom-forms.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown-buttons.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/social_foundicons_ie7.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/social_foundicons_ie7.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
-    "\/docs\/_sidebar.html.erb" : {
+    "\/scss\/foundation\/components\/_dropdown.scss" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/custom-forms.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/img\/header3.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_dropdown.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_dropdown.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/js\/foundation\/foundation.placeholder.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.placeholder.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.placeholder-ck.js",
+      "fileType" : 64
+    },
+    "\/_site\/docs\/css\/normalize.scss" : {
+=======
       "inputAbbreviatedPath" : "\/img\/header3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/header3.jpg",
@@ -2230,18 +2038,33 @@
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/_site\/docs\/css\/normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/css\/qunit.css" : {
+=======
       "inputAbbreviatedPath" : "\/server\/docs\/components\/pricing-tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-<<<<<<< HEAD
-    "\/img\/gallery\/thumbs\/planting.jpg" : {
-=======
     "\/Gruntfile.js" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/css\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/scss\/foundation\/components\/_pricing-tables.scss" : {
+=======
       "inputAbbreviatedPath" : "\/Gruntfile.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
@@ -2249,10 +2072,43 @@
       "fileType" : 64
     },
     "\/scss\/foundation\/components\/_inline-lists.scss" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_pricing-tables.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_pricing-tables.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/img\/gallery\/food-ordering.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/food-ordering.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/food-ordering.jpg",
+      "initialSize" : 63256,
+      "fileType" : 4096
+    },
+    "\/docs\/js\/qunit.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/js\/qunit.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/docs\/js\/qunit-ck.js",
+      "fileType" : 64
+    },
+    "\/docs\/components\/pagination.html.erb" : {
+=======
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_inline-lists.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -2267,13 +2123,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/planting.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/planting.jpg",
-      "initialSize" : 40003,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/docs\/components\/pagination.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/_site\/docs\/sass.html.erb" : {
+    "\/docs\/components\/joyride.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/components\/sub-nav.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -2286,13 +2140,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/sass.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/css\/qunit.css" : {
+      "inputAbbreviatedPath" : "\/docs\/components\/joyride.html.erb",
 =======
       "inputAbbreviatedPath" : "\/docs\/components\/panels.html.erb",
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2321,24 +2172,19 @@
       "debugStyle" : 0
     },
     "\/img\/gallery\/thumbs\/3.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/_site\/docs\/components\/orbit.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
       "initialSize" : 27725,
       "fileType" : 4096
     },
+<<<<<<< HEAD
+    "\/lib\/foundation\/generators\/templates\/application.html.slim" : {
+=======
     "\/img\/gallery\/thumbs\/2.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
@@ -2346,11 +2192,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/orbit.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.slim",
+      "outputStyle" : 1,
+      "railsCompatible" : 0,
+      "outputAbbreviatedPath" : "\/lib\/foundation\/generators\/templates\/application.html.html",
+      "compileOnly" : 0,
+      "fileType" : 1024,
+      "logicless" : 0
     },
-    "\/img\/gallery\/thumbs\/wearwhere.jpg" : {
+    "\/img\/gallery\/2.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/2.jpg",
       "processed" : 0,
@@ -2365,18 +2215,16 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/wearwhere.jpg",
+      "inputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/wearwhere.jpg",
-      "initialSize" : 35658,
-      "fileType" : 4096
-    },
-    "\/img\/gallery\/wearwhere.png" : {
+      "outputAbbreviatedPath" : "\/img\/gallery\/2.jpg",
+      "initialSize" : 24404,
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
       "initialSize" : 11439,
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "fileType" : 4096
     },
     "\/stylesheets\/screen.css" : {
@@ -2389,24 +2237,17 @@
       "fileType" : 16
     },
     "\/docs\/components\/buttons.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/wearwhere.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/wearwhere.png",
-      "initialSize" : 171492,
-      "fileType" : 8192
-    },
-    "\/docs\/components\/global.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/docs\/components\/buttons.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
+    "\/img\/gallery\/pystache.png" : {
+=======
     "\/img\/gallery\/mobintent.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
@@ -2414,11 +2255,22 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/global.html.erb",
+      "inputAbbreviatedPath" : "\/img\/gallery\/pystache.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/pystache.png",
+      "initialSize" : 173595,
+      "fileType" : 8192
+    },
+    "\/docs\/components\/labels.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/labels.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/style.scss" : {
+    "\/docs\/img\/demos\/demo3-th.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/mobintent.jpg",
       "processed" : 0,
@@ -2433,14 +2285,13 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/style.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/style.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo3-th.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo3-th.jpg",
+      "initialSize" : 3747,
+      "fileType" : 4096
     },
-    "\/scss\/foundation\/components\/_block-grid.scss" : {
+    "\/_includes\/sidebar.html" : {
 =======
       "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
       "processed" : 0,
@@ -2451,18 +2302,15 @@
     "\/server\/docs\/components\/grid.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_block-grid.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_block-grid.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_includes\/sidebar.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/scss\/foundation\/components\/_thumbs.scss" : {
+    "\/docs\/img\/demos\/demo1-th.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/components\/grid.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -2471,18 +2319,17 @@
     "\/_layouts\/default.html" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_thumbs.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_thumbs.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo1-th.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo1-th.jpg",
+      "initialSize" : 3178,
+      "fileType" : 4096
     },
-    "\/scss\/foundation\/components\/_labels.scss" : {
+    "\/img\/gallery\/upcoming.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/_layouts\/default.html",
       "outputAbbreviatedPath" : "No Output Path",
@@ -2491,18 +2338,17 @@
     "\/scss\/foundation\/components\/_joyride.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_labels.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_labels.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/gallery\/upcoming.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/upcoming.jpg",
+      "initialSize" : 42944,
+      "fileType" : 4096
     },
-    "\/docs\/components\/keystrokes.html.erb" : {
+    "\/_site\/docs\/components\/buttons.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_joyride.scss",
       "outputStyle" : 0,
@@ -2518,11 +2364,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/keystrokes.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/buttons.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/docs\/components\/forms.html.erb" : {
+    "\/docs\/components\/dropdown-buttons.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/changelog.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -2535,7 +2381,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/forms.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/dropdown-buttons.html.erb",
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/css\/qunit.css",
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
@@ -2543,7 +2389,7 @@
       "fileType" : 16
     },
 <<<<<<< HEAD
-    "\/docs\/components\/alert-boxes.html.erb" : {
+    "\/_site\/docs\/components\/dropdown-buttons.html.erb" : {
 =======
     "\/server\/docs\/css\/qunit-composite.css" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
@@ -2552,7 +2398,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/alert-boxes.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/dropdown-buttons.html.erb",
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/css\/qunit-composite.css",
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
@@ -2560,7 +2406,7 @@
       "fileType" : 2048
     },
 <<<<<<< HEAD
-    "\/docs\/img\/demos\/demo5-th.jpg" : {
+    "\/docs\/_sidebar.html.erb" : {
 =======
     "\/server\/docs\/css\/normalize.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
@@ -2569,6 +2415,248 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/_sidebar.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/planting.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/planting.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/planting.jpg",
+      "initialSize" : 40003,
+      "fileType" : 4096
+    },
+    "\/_site\/docs\/sass.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/css\/normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/server\/docs\/css\/normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/components\/side-nav.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/sass.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+<<<<<<< HEAD
+    "\/_site\/docs\/components\/orbit.html.erb" : {
+=======
+    "\/_layouts\/post.html" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/orbit.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/css\/qunit.css" : {
+=======
+      "inputAbbreviatedPath" : "\/_layouts\/post.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/img\/header3.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/img\/gallery\/thumbs\/wearwhere.jpg" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/img\/header3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/header3.jpg",
+      "initialSize" : 136114,
+      "fileType" : 4096
+    },
+    "\/server\/img\/gallery\/thumbs\/piictu.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/wearwhere.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/wearwhere.jpg",
+      "initialSize" : 35658,
+      "fileType" : 4096
+    },
+    "\/img\/gallery\/wearwhere.png" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/piictu.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/piictu.jpg",
+      "initialSize" : 27635,
+      "fileType" : 4096
+    },
+    "\/img\/header4.png" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/img\/gallery\/wearwhere.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/wearwhere.png",
+      "initialSize" : 171492,
+      "fileType" : 8192
+    },
+    "\/docs\/components\/global.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/global.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/style.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/style.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/foundation\/components\/_block-grid.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/img\/header4.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header4.png",
+      "initialSize" : 745555,
+      "fileType" : 8192
+    },
+    "\/_site\/docs\/components\/side-nav.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_block-grid.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_block-grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/foundation\/components\/_thumbs.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/side-nav.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/gojotter-mobile.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_thumbs.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_thumbs.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/foundation\/components\/_labels.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_labels.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_labels.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/components\/keystrokes.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
+      "initialSize" : 17379,
+      "fileType" : 4096
+    },
+    "\/server\/docs\/js\/tests\/tooltips\/tooltips.html" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/components\/keystrokes.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/forms.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/js\/tests\/tooltips\/tooltips.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/the-rig@2x.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/components\/forms.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/the-rig@2x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/the-rig@2x.jpg",
+      "initialSize" : 380463,
+      "fileType" : 4096
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    },
+    "\/server\/img\/gallery\/pystache.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/server\/img\/gallery\/pystache.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/gallery\/pystache.png",
+      "initialSize" : 173595,
+      "fileType" : 8192
+    },
+<<<<<<< HEAD
+    "\/docs\/img\/demos\/demo5-th.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo5-th.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo5-th.jpg",
@@ -2587,16 +2675,6 @@
       "fileType" : 64
     },
     "\/_site\/docs\/components\/visibility.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/css\/normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/server\/docs\/css\/normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/components\/side-nav.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
@@ -2605,27 +2683,18 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-<<<<<<< HEAD
     "\/docs\/components\/section.html.erb" : {
-=======
-    "\/_layouts\/post.html" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/docs\/components\/section.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/_site\/docs\/components\/block-grid.html.erb" : {
 =======
-      "inputAbbreviatedPath" : "\/_layouts\/post.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/server\/img\/header3.jpg" : {
+    "\/_site\/docs\/components\/pagination.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2638,13 +2707,11 @@
     },
     "\/_site\/docs\/components\/kitchen-sink.html.erb" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/img\/header3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/header3.jpg",
-      "initialSize" : 136114,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pagination.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/server\/img\/gallery\/thumbs\/piictu.jpg" : {
+    "\/_site\/docs\/components\/forms.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2667,20 +2734,10 @@
       "fileType" : 64
     },
     "\/scss\/foundation\/components\/_custom-forms.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/piictu.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/piictu.jpg",
-      "initialSize" : 27635,
-      "fileType" : 4096
-    },
-    "\/img\/header4.png" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_custom-forms.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -2701,40 +2758,10 @@
       "debugStyle" : 0
     },
     "\/scss\/foundation\/components\/_alert-boxes.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/img\/header4.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header4.png",
-      "initialSize" : 745555,
-      "fileType" : 8192
-    },
-    "\/_site\/docs\/components\/side-nav.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/side-nav.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/thumbs\/gojotter-mobile.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
-      "initialSize" : 17379,
-      "fileType" : 4096
-    },
-    "\/server\/docs\/js\/tests\/tooltips\/tooltips.html" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_alert-boxes.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -2742,13 +2769,33 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/img\/gallery\/pegleggy.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/js\/tests\/tooltips\/tooltips.html",
+    "\/_site\/docs\/javascript.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/javascript.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/gallery\/the-rig@2x.jpg" : {
+    "\/img\/gallery\/pegleggy.jpg" : {
+=======
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/forms.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/js\/foundation\/foundation.tooltips.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.tooltips.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.tooltips-ck.js",
+      "fileType" : 64
+    },
+    "\/_site\/docs\/components\/thumbnails.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2763,13 +2810,11 @@
     },
     "\/_includes\/footer.html" : {
 =======
-      "inputAbbreviatedPath" : "\/img\/gallery\/the-rig@2x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/the-rig@2x.jpg",
-      "initialSize" : 380463,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/thumbnails.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/server\/img\/gallery\/pystache.png" : {
+    "\/img\/gallery\/planting.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2779,6 +2824,25 @@
       "inputAbbreviatedPath" : "\/_includes\/footer.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/stylesheets\/screen.css" : {
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
+      "initialSize" : 115271,
+      "fileType" : 4096
+    },
+    "\/server\/docs\/components\/block-grid.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/stylesheets\/screen.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/js\/vendor\/zepto.js" : {
       "ignoreWasSetByUser" : 1,
@@ -2791,47 +2855,19 @@
       "outputAbbreviatedPath" : "\/js\/vendor\/zepto-ck.js",
       "fileType" : 64
     },
-    "\/_site\/stylesheets\/screen.css" : {
+    "\/scss\/foundation\/components\/_switch.scss" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/img\/gallery\/pystache.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/gallery\/pystache.png",
-      "initialSize" : 173595,
-      "fileType" : 8192
-    },
-    "\/_site\/docs\/components\/pagination.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/stylesheets\/screen.css",
-=======
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pagination.html.erb",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-<<<<<<< HEAD
-    "\/_site\/docs\/javascript.html.erb" : {
-=======
-    "\/_site\/docs\/components\/forms.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/javascript.html.erb",
+      "inputAbbreviatedPath" : "\/server\/docs\/components\/block-grid.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/foundation\/components\/_switch.scss" : {
+    "\/scss\/foundation.scss" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_switch.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -2863,143 +2899,6 @@
       "debugStyle" : 0
     },
     "\/scss\/foundation\/components\/_reveal.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_reveal.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_reveal.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/components\/sub-nav.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/sub-nav.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/css\/qunit-composite.css" : {
-=======
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/forms.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/foundation\/foundation.tooltips.js" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/css\/qunit-composite.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/_site\/docs\/components\/pricing-tables.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.tooltips.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.tooltips-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/docs\/components\/thumbnails.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pricing-tables.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/css\/normalize.scss" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/css\/normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/docs\/css\/normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/img\/gallery\/muffins.png" : {
-=======
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/thumbnails.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/planting.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
-      "initialSize" : 115271,
-      "fileType" : 4096
-    },
-    "\/server\/docs\/components\/block-grid.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/muffins.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/muffins.png",
-      "initialSize" : 331787,
-      "fileType" : 8192
-    },
-    "\/docs\/index.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/index.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/rails.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/components\/block-grid.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation.scss" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/rails.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_breadcrumbs.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_breadcrumbs.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_breadcrumbs.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/components\/block-grid.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/scss\/foundation.scss",
       "outputStyle" : 0,
@@ -3029,15 +2928,18 @@
     "\/scss\/foundation\/components\/_keystrokes.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/block-grid.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_reveal.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_reveal.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
-    "\/_site\/index.html" : {
+    "\/_site\/docs\/components\/sub-nav.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_keystrokes.scss",
       "outputStyle" : 0,
@@ -3053,20 +2955,20 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/sub-nav.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/docs\/css\/qunit-composite.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+    "\/docs\/css\/qunit-composite.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit-composite.css",
+      "inputAbbreviatedPath" : "\/docs\/css\/qunit-composite.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/docs\/media-queries.html.erb" : {
+    "\/_site\/docs\/components\/pricing-tables.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/section.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -3079,29 +2981,33 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/media-queries.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/pricing-tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/docs\/components\/grid.html.erb" : {
+    "\/docs\/css\/normalize.scss" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/css\/normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/docs\/css\/normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/img\/gallery\/muffins.png" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/components\/buttons.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/img\/gallery\/1.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/grid.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/rails.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
@@ -3115,22 +3021,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/rails.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/foundation\/foundation.magellan.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.magellan-ck.js",
-      "fileType" : 64
-    },
-    "\/img\/gallery\/thumbs\/apple.jpg" : {
+      "inputAbbreviatedPath" : "\/img\/gallery\/muffins.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/muffins.png",
+      "initialSize" : 331787,
+      "fileType" : 8192
 =======
       "inputAbbreviatedPath" : "\/server\/img\/header2.jpg",
       "processed" : 0,
@@ -3158,26 +3053,20 @@
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     },
     "\/docs\/components\/custom-forms.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/apple.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/apple.jpg",
-      "initialSize" : 4427,
-      "fileType" : 4096
-    },
-    "\/_site\/docs\/faq.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/docs\/components\/custom-forms.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
+    "\/_site\/docs\/rails.html.erb" : {
+=======
     "\/_site\/docs\/components\/keystrokes.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
@@ -3185,23 +3074,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/faq.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/rails.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/foundation\/_foundation-global.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/_foundation-global.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/css\/_foundation-global.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/img\/gallery\/thumbs\/pystache.jpg" : {
+    "\/scss\/foundation\/components\/_breadcrumbs.scss" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/keystrokes.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -3217,6 +3094,174 @@
       "fileType" : 2048
     },
     "\/_site\/docs\/components\/split-buttons.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/split-buttons.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/gallery\/default.css" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_breadcrumbs.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_breadcrumbs.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/components\/block-grid.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/scss\/gallery\/default.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/docs\/components\/split-buttons.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/components\/block-grid.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/index.html" : {
+=======
+      "inputAbbreviatedPath" : "\/docs\/components\/split-buttons.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/components\/reveal.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/css\/qunit-composite.css" : {
+=======
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/reveal.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/docs\/support.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/qunit-composite.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/support.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    },
+    "\/docs\/media-queries.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/media-queries.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+<<<<<<< HEAD
+    "\/docs\/components\/grid.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/grid.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/rails.html.erb" : {
+=======
+    "\/server\/img\/bam.png" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/rails.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+=======
+      "inputAbbreviatedPath" : "\/server\/img\/bam.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/bam.png",
+      "initialSize" : 79640,
+      "fileType" : 8192
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    },
+    "\/docs\/js\/tests\/tooltips\/tooltips.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips-ck.js",
+      "fileType" : 64
+    },
+<<<<<<< HEAD
+    "\/img\/gallery\/thumbs\/apple.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/apple.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/apple.jpg",
+      "initialSize" : 4427,
+      "fileType" : 4096
+    },
+    "\/_site\/docs\/faq.html.erb" : {
+=======
+    "\/templates\/project\/index.html" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/project\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+<<<<<<< HEAD
+    "\/scss\/foundation\/_foundation-global.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/_foundation-global.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/css\/_foundation-global.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/img\/gallery\/thumbs\/pystache.jpg" : {
+=======
+    "\/scss\/gallery\/component.css" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3230,184 +3275,6 @@
       "fileType" : 4096
     },
     "\/_site\/docs\/support.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/support.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/project\/scss\/_settings.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/split-buttons.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/gallery\/default.css" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/templates\/project\/scss\/_settings.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/templates\/project\/css\/_settings.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/foundation\/components\/_clearing.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/scss\/gallery\/default.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/docs\/components\/split-buttons.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_clearing.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_clearing.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/components\/panels.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/components\/split-buttons.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/docs\/components\/reveal.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/panels.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_dropdown-buttons.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/reveal.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/server\/docs\/support.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_dropdown-buttons.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_dropdown-buttons.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/scss\/social_foundicons_ie7.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scss\/social_foundicons_ie7.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/_site\/css\/social_foundicons_ie7.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/components\/alert-boxes.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/support.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/foundation\/foundation.orbit.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/foundation\/foundation.orbit.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/foundation\/foundation.orbit-ck.js",
-      "fileType" : 64
-    },
-    "\/server\/img\/bam.png" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/alert-boxes.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/vendor\/custom.modernizr.old.js" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/img\/bam.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/bam.png",
-      "initialSize" : 79640,
-      "fileType" : 8192
-    },
-    "\/docs\/js\/tests\/tooltips\/tooltips.js" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/js\/vendor\/custom.modernizr.old.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/vendor\/custom.modernizr.old-ck.js",
-      "fileType" : 64
-    },
-    "\/scss\/foundation\/components\/_tooltips.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips-ck.js",
-      "fileType" : 64
-    },
-    "\/templates\/project\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/project\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/gallery\/component.css" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_tooltips.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_tooltips.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/docs\/components\/button-groups.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/scss\/gallery\/component.css",
       "outputAbbreviatedPath" : "No Output Path",
@@ -3420,18 +3287,32 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/button-groups.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/support.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/project\/scss\/_settings.scss" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/js\/tests\/tabs\/simple_tabs.html",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/server\/docs\/img\/demos\/demo5.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/templates\/project\/scss\/_settings.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/templates\/project\/css\/_settings.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/foundation\/components\/_clearing.scss" : {
+=======
       "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5.jpg",
@@ -3449,9 +3330,6 @@
       "outputAbbreviatedPath" : "\/docs\/js\/docs-ck.js",
       "fileType" : 64
     },
-<<<<<<< HEAD
-    "\/img\/gallery\/thumbs\/food-ordering.jpg" : {
-=======
     "\/docs\/components\/breadcrumbs.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3462,6 +3340,158 @@
       "fileType" : 2048
     },
     "\/docs\/components\/switch.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_clearing.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_clearing.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/docs\/components\/panels.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/docs\/components\/switch.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/upcoming.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/panels.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/upcoming.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/upcoming.jpg",
+      "initialSize" : 20312,
+      "fileType" : 4096
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    },
+    "\/_site\/docs\/css\/docs.scss" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/css\/docs.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/_site\/docs\/css\/docs.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+<<<<<<< HEAD
+    "\/_site\/scss\/social_foundicons_ie7.scss" : {
+=======
+    "\/_site\/docs\/components\/top-bar.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/scss\/social_foundicons_ie7.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/_site\/css\/social_foundicons_ie7.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/docs\/components\/alert-boxes.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/top-bar.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/docs\/components\/clearing.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/alert-boxes.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/js\/vendor\/custom.modernizr.old.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/custom.modernizr.old.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor\/custom.modernizr.old-ck.js",
+      "fileType" : 64
+    },
+    "\/scss\/foundation\/components\/_tooltips.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/components\/clearing.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/foundation\/components\/_buttons.scss" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_tooltips.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_tooltips.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/docs\/components\/button-groups.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_buttons.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_buttons.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/server\/docs\/media-queries.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/button-groups.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/js\/qunit.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/docs\/js\/qunit.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/_site\/docs\/js\/qunit-ck.js",
+      "fileType" : 64
+    },
+    "\/img\/gallery\/thumbs\/food-ordering.jpg" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/media-queries.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/portfolio\/index.html" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3486,56 +3516,49 @@
       "fileType" : 64
     },
     "\/docs\/css\/_settings.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/portfolio\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/docs\/javascript.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/docs\/css\/_settings.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/docs\/css\/_settings.css",
-=======
-      "inputAbbreviatedPath" : "\/docs\/components\/switch.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/thumbs\/upcoming.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/upcoming.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/upcoming.jpg",
-      "initialSize" : 20312,
-      "fileType" : 4096
-    },
-    "\/_site\/docs\/css\/docs.scss" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/css\/docs.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/_site\/docs\/css\/docs.css",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/docs\/components\/top-bar.html.erb" : {
+    "\/_site\/docs\/components\/custom-forms.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/javascript.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/ordr-full_files\/screen.css" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/top-bar.html.erb",
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/custom-forms.html.erb",
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/ordr-full_files\/screen.css",
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "fileType" : 16
     },
 <<<<<<< HEAD
     "\/docs\/components\/orbit.html.erb" : {
 =======
-    "\/server\/docs\/components\/clearing.html.erb" : {
+    "\/img\/gallery\/thumbs\/ordrin.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3547,18 +3570,10 @@
       "fileType" : 2048
     },
     "\/img\/header3.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/components\/clearing.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_buttons.scss" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/header3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/header3.jpg",
@@ -3567,14 +3582,13 @@
     },
     "\/docs\/components\/type.html.erb" : {
 =======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_buttons.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_buttons.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/ordrin.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/ordrin.jpg",
+      "initialSize" : 40203,
+      "fileType" : 4096
     },
-    "\/server\/docs\/media-queries.html.erb" : {
+    "\/server\/docs\/components\/visibility.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3597,10 +3611,18 @@
       "fileType" : 64
     },
     "\/scss\/foundation\/components\/_inline-lists.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/components\/visibility.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/moving-needle.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_inline-lists.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -3610,11 +3632,24 @@
     },
     "\/docs\/components\/panels.html.erb" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/docs\/media-queries.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/moving-needle.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/moving-needle.jpg",
+      "initialSize" : 21829,
+      "fileType" : 4096
     },
-    "\/server\/portfolio\/index.html" : {
+    "\/img\/gallery\/thumbs\/the-rig.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/the-rig.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/the-rig.jpg",
+      "initialSize" : 52923,
+      "fileType" : 4096
+    },
+    "\/img\/header2.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3638,18 +3673,10 @@
       "debugStyle" : 0
     },
     "\/_site\/scss\/social_foundicons.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/portfolio\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/server\/docs\/javascript.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/scss\/social_foundicons.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -3658,18 +3685,10 @@
       "debugStyle" : 0
     },
     "\/img\/gallery\/thumbs\/3.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/javascript.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/ordr-full_files\/screen.css" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/3.jpg",
@@ -3677,18 +3696,10 @@
       "fileType" : 4096
     },
     "\/img\/gallery\/thumbs\/2.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/img\/gallery\/ordr-full_files\/screen.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/img\/gallery\/thumbs\/ordrin.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/2.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/2.jpg",
@@ -3696,114 +3707,6 @@
       "fileType" : 4096
     },
     "\/stylesheets\/screen.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/stylesheets\/screen.css",
-      "outputAbbreviatedPath" : "\/No Output Path",
-      "fileType" : 16
-    },
-    "\/img\/gallery\/thumbs\/1.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/ordrin.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/ordrin.jpg",
-      "initialSize" : 40203,
-      "fileType" : 4096
-    },
-    "\/server\/docs\/components\/visibility.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
-      "initialSize" : 11439,
-      "fileType" : 4096
-    },
-    "\/scss\/foundation\/components\/_joyride.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/components\/visibility.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/thumbs\/moving-needle.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_joyride.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_joyride.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/img\/gallery\/mobintent.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/moving-needle.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/moving-needle.jpg",
-      "initialSize" : 21829,
-      "fileType" : 4096
-    },
-    "\/img\/gallery\/thumbs\/the-rig.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/gallery\/mobintent.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/mobintent.jpg",
-      "initialSize" : 99630,
-      "fileType" : 4096
-    },
-    "\/docs\/components\/buttons.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/the-rig.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/the-rig.jpg",
-      "initialSize" : 52923,
-      "fileType" : 4096
-    },
-    "\/img\/header2.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/buttons.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_layouts\/default.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/components\/side-nav.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/side-nav.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_layouts\/post.html" : {
 =======
       "inputAbbreviatedPath" : "\/img\/header2.jpg",
       "processed" : 0,
@@ -3829,19 +3732,108 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/stylesheets\/screen.css",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 16
+    },
+    "\/img\/gallery\/thumbs\/1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/1.jpg",
+      "initialSize" : 11439,
+=======
+      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/pegleggy.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/pegleggy.jpg",
+      "initialSize" : 12327,
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "fileType" : 4096
+    },
+    "\/scss\/foundation\/components\/_type.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_type.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_type.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/img\/gallery\/mobintent.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/mobintent.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/mobintent.jpg",
+      "initialSize" : 99630,
+      "fileType" : 4096
+    },
+    "\/docs\/components\/buttons.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/docs\/components\/buttons.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+<<<<<<< HEAD
+    "\/_layouts\/default.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/components\/side-nav.html.erb" : {
+=======
+    "\/server\/docs\/img\/demos\/demo4.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/components\/side-nav.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_layouts\/post.html" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo4.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo4.jpg",
+      "initialSize" : 114141,
+      "fileType" : 4096
+    },
+    "\/server\/docs\/components\/breadcrumbs.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_layouts\/post.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/img\/header4.png" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/pegleggy.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/pegleggy.jpg",
-      "initialSize" : 12327,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/server\/docs\/components\/breadcrumbs.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/scss\/foundation\/components\/_type.scss" : {
+    "\/docs\/layout.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3853,14 +3845,6 @@
       "outputAbbreviatedPath" : "\/img\/header4.png",
       "initialSize" : 745555,
       "fileType" : 8192
-=======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_type.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_type.css",
-      "fileType" : 4,
-      "debugStyle" : 0
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     },
     "\/_site\/docs\/components\/side-nav.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -3871,12 +3855,19 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-<<<<<<< HEAD
     "\/img\/gallery\/thumbs\/gojotter-mobile.jpg" : {
+=======
+      "inputAbbreviatedPath" : "\/docs\/layout.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/docs\/img\/demos\/demo2-th.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/gojotter-mobile.jpg",
@@ -3884,14 +3875,10 @@
       "fileType" : 4096
     },
     "\/_site\/docs\/components\/thumbnails.html.erb" : {
-=======
-    "\/server\/docs\/img\/demos\/demo4.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/thumbnails.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -3908,31 +3895,35 @@
       "fileType" : 64
     },
     "\/_site\/docs\/components\/pagination.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo4.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo4.jpg",
-      "initialSize" : 114141,
-      "fileType" : 4096
-    },
-    "\/server\/docs\/components\/breadcrumbs.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/pagination.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/_site\/docs\/components\/forms.html.erb" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/docs\/components\/breadcrumbs.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo2-th.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo2-th.jpg",
+      "initialSize" : 4394,
+      "fileType" : 4096
     },
-    "\/docs\/layout.html.erb" : {
+    "\/server\/scss\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/server\/scss\/style.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/server\/css\/style.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/faq.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3940,28 +3931,24 @@
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/forms.html.erb",
+=======
+      "inputAbbreviatedPath" : "\/docs\/faq.html.erb",
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/img\/gallery\/planting.jpg" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/layout.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/docs\/img\/demos\/demo2-th.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/planting.jpg",
       "initialSize" : 115271,
       "fileType" : 4096
     },
+<<<<<<< HEAD
     "\/img\/gallery\/snapscouts.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3974,20 +3961,10 @@
       "fileType" : 8192
     },
     "\/scss\/foundation.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo2-th.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo2-th.jpg",
-      "initialSize" : 4394,
-      "fileType" : 4096
-    },
-    "\/server\/scss\/style.scss" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/foundation.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -4006,14 +3983,7 @@
     },
     "\/img\/gallery\/ordrin.jpg" : {
 =======
-      "inputAbbreviatedPath" : "\/server\/scss\/style.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/server\/css\/style.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/faq.html.erb" : {
+    "\/docs\/components\/visibility.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4025,11 +3995,6 @@
       "outputAbbreviatedPath" : "\/img\/gallery\/ordrin.jpg",
       "initialSize" : 177473,
       "fileType" : 4096
-=======
-      "inputAbbreviatedPath" : "\/docs\/faq.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     },
     "\/_site\/docs\/components\/section.html.erb" : {
       "ignoreWasSetByUser" : 0,
@@ -4040,7 +4005,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-<<<<<<< HEAD
     "\/scss\/foundation\/components\/_keystrokes.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -4054,28 +4018,23 @@
       "debugStyle" : 0
     },
     "\/img\/gallery\/1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
-      "initialSize" : 25875,
-      "fileType" : 4096
-    },
-    "\/_site\/docs\/components\/tables.html.erb" : {
 =======
-    "\/docs\/components\/visibility.html.erb" : {
+      "inputAbbreviatedPath" : "\/docs\/components\/visibility.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/docs\/rails.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/tables.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/1.jpg",
+      "initialSize" : 25875,
+      "fileType" : 4096
     },
     "\/docs\/css\/docs.scss" : {
       "ignoreWasSetByUser" : 1,
@@ -4089,24 +4048,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/docs\/components\/custom-forms.html.erb" : {
-=======
-      "inputAbbreviatedPath" : "\/docs\/components\/visibility.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/server\/docs\/rails.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    "\/_site\/docs\/components\/tables.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/custom-forms.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/docs\/components\/keystrokes.html.erb" : {
+    "\/docs\/components\/custom-forms.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/rails.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -4119,11 +4070,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/keystrokes.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/custom-forms.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/docs\/components\/split-buttons.html.erb" : {
+    "\/_site\/docs\/components\/keystrokes.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/docs\/media-queries.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -4136,11 +4087,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/split-buttons.html.erb",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/keystrokes.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/index.html" : {
+    "\/_site\/docs\/components\/split-buttons.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/mobintent.jpg",
       "processed" : 0,
@@ -4155,11 +4106,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/index.html",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/split-buttons.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/gallery\/default.css" : {
+    "\/index.html" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/components\/pricing-tables.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -4172,11 +4123,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/gallery\/default.css",
+      "inputAbbreviatedPath" : "\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 2048
     },
-    "\/docs\/components\/split-buttons.html.erb" : {
+    "\/scss\/gallery\/default.css" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/3.jpg",
       "processed" : 0,
@@ -4200,15 +4151,45 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/gallery\/default.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/docs\/components\/split-buttons.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_pagination.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_pagination.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/server\/img\/gallery\/thumbs\/food-ordering.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/docs\/components\/split-buttons.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/_site\/docs\/components\/reveal.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/food-ordering.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/food-ordering.jpg",
+      "initialSize" : 36959,
+      "fileType" : 4096
+    },
+    "\/_site\/docs\/components\/magellan.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/reveal.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -4237,29 +4218,6 @@
     },
     "\/templates\/project\/index.html" : {
 =======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_pagination.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_pagination.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/server\/img\/gallery\/thumbs\/food-ordering.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/food-ordering.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/food-ordering.jpg",
-      "initialSize" : 36959,
-      "fileType" : 4096
-    },
-    "\/_site\/docs\/components\/magellan.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/docs\/components\/magellan.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -4277,18 +4235,10 @@
       "debugStyle" : 0
     },
     "\/server\/docs\/img\/demos\/demo3.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/templates\/project\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/gallery\/component.css" : {
-=======
       "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo3.jpg",
@@ -4302,6 +4252,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/templates\/project\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/gallery\/component.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/scss\/gallery\/component.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
@@ -4932,15 +4891,6 @@
       "fileType" : 64
     },
     "\/docs\/components\/flex-video.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/flex-video.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/foundation\/components\/_top-bar.scss" : {
 =======
       "inputAbbreviatedPath" : "\/js\/vendor\/jquery.js",
       "outputStyle" : 1,
@@ -4955,23 +4905,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_top-bar.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_top-bar.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/components\/sub-nav.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/sub-nav.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/flex-video.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/social_foundicons.scss" : {
+    "\/scss\/foundation\/components\/_top-bar.scss" : {
 =======
       "inputAbbreviatedPath" : "\/img\/gallery\/ordr-full_files\/pegleggy.png",
       "processed" : 0,
@@ -4986,6 +4924,45 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_top-bar.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_top-bar.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/components\/sub-nav.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/docs\/support.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/gallery\/thumbs\/piictu.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/components\/sub-nav.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/social_foundicons.scss" : {
+=======
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/piictu.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/piictu.jpg",
+      "initialSize" : 27635,
+      "fileType" : 4096
+    },
+    "\/server\/docs\/img\/demos\/demo5-th.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/scss\/social_foundicons.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -4995,22 +4972,13 @@
     },
     "\/_site\/lib\/foundation\/generators\/templates\/application.html.slim" : {
 =======
-      "inputAbbreviatedPath" : "\/docs\/support.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/gallery\/thumbs\/piictu.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/piictu.jpg",
+      "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5-th.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/piictu.jpg",
-      "initialSize" : 27635,
+      "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5-th.jpg",
+      "initialSize" : 3737,
       "fileType" : 4096
     },
-    "\/server\/docs\/img\/demos\/demo5-th.jpg" : {
+    "\/docs\/components\/kitchen-sink.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5026,20 +4994,10 @@
       "logicless" : 0
     },
     "\/docs\/css\/_coderay.scss" : {
-=======
-      "inputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5-th.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/server\/docs\/img\/demos\/demo5-th.jpg",
-      "initialSize" : 3737,
-      "fileType" : 4096
-    },
-    "\/docs\/components\/kitchen-sink.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/docs\/css\/_coderay.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 1,
@@ -5064,27 +5022,29 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/header.jpg" : {
+    "\/templates\/project\/scss\/app.scss" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/project\/scss\/app.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/templates\/project\/css\/app.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/components\/reveal.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/_includes\/header.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/img\/gallery\/ordr-full_files\/ordr-0.jpg" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/img\/header.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/header.jpg",
-      "initialSize" : 843834,
-      "fileType" : 4096
-    },
-    "\/docs\/components\/reveal.html.erb" : {
-=======
       "inputAbbreviatedPath" : "\/img\/gallery\/ordr-full_files\/ordr-0.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/gallery\/ordr-full_files\/ordr-0.jpg",
@@ -5114,29 +5074,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/project\/scss\/app.scss" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/project\/scss\/app.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/templates\/project\/css\/app.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/foundation\/components\/_tables.scss" : {
+    "\/img\/header.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/_site\/about\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/docs\/javascript.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/img\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/header.jpg",
+      "initialSize" : 843834,
+      "fileType" : 4096
+    },
+    "\/scss\/foundation\/components\/_tables.scss" : {
+=======
       "inputAbbreviatedPath" : "\/docs\/javascript.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
@@ -5668,6 +5626,18 @@
       "fileType" : 4096
     },
     "\/scss\/foundation\/components\/_side-nav.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_side-nav.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_side-nav.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/scss\/foundation\/components\/_flex-video.scss" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -5682,57 +5652,33 @@
       "debugStyle" : 0
     },
     "\/docs\/components\/progress-bars.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_flex-video.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_flex-video.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/img\/demos\/demo5.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/docs\/components\/progress-bars.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/scss\/foundation\/components\/_side-nav.scss" : {
 =======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_side-nav.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_side-nav.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/scss\/foundation\/components\/_flex-video.scss" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_side-nav.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_side-nav.css",
-=======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_flex-video.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_flex-video.css",
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/img\/demos\/demo5.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
       "initialSize" : 160322,
       "fileType" : 4096
     },
-<<<<<<< HEAD
-    "\/_site\/docs\/components\/progress-bars.html.erb" : {
-=======
     "\/docs\/img\/demos\/demo2.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
@@ -5740,11 +5686,14 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/progress-bars.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_side-nav.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_side-nav.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
-    "\/docs\/img\/demos\/demo4.jpg" : {
+    "\/docs\/img\/demos\/demo5.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo2.jpg",
       "processed" : 0,
@@ -5759,13 +5708,13 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo4.jpg",
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo4.jpg",
-      "initialSize" : 114141,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo5.jpg",
+      "initialSize" : 160322,
       "fileType" : 4096
     },
-    "\/docs\/js\/tests\/tooltips\/tooltips.html" : {
+    "\/_site\/docs\/components\/progress-bars.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/components\/dropdown.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -5778,34 +5727,22 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips.html",
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/progress-bars.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scss\/foundation\/components\/_flex-video.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_flex-video.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_flex-video.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/docs\/img\/demos\/demo2.jpg" : {
+    "\/docs\/img\/demos\/demo4.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo2.jpg",
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo4.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo2.jpg",
-      "initialSize" : 181111,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo4.jpg",
+      "initialSize" : 114141,
       "fileType" : 4096
     },
-    "\/docs\/components\/dropdown.html.erb" : {
+    "\/docs\/js\/tests\/tooltips\/tooltips.html" : {
 =======
       "inputAbbreviatedPath" : "\/server\/docs\/components\/keystrokes.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
@@ -5840,11 +5777,11 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/components\/dropdown.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/js\/tests\/tooltips\/tooltips.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/docs\/img\/demos\/demo1.jpg" : {
+    "\/scss\/foundation\/components\/_flex-video.scss" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo1.jpg",
       "processed" : 0,
@@ -5855,26 +5792,16 @@
     "\/_site\/docs\/components\/type.html.erb" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo1.jpg",
-      "initialSize" : 115764,
-      "fileType" : 4096
-    },
-    "\/img\/gallery\/thumbs\/muffins.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/muffins.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/muffins.jpg",
-      "initialSize" : 39303,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_flex-video.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_flex-video.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/scss\/foundation\/components\/_progress-bars.scss" : {
 =======
@@ -5901,28 +5828,37 @@
       "fileType" : 2048
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     },
-    "\/_site\/docs\/changelog.html.erb" : {
+    "\/docs\/components\/dropdown.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/docs\/changelog.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/dropdown.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
 <<<<<<< HEAD
-    "\/_site\/docs\/components\/type.html.erb" : {
-=======
-    "\/docs\/components\/tooltips.html.erb" : {
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+    "\/docs\/img\/demos\/demo1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-<<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/docs\/components\/type.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo1.jpg",
+      "initialSize" : 115764,
+      "fileType" : 4096
+    },
+    "\/img\/gallery\/thumbs\/muffins.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/gallery\/thumbs\/muffins.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/gallery\/thumbs\/muffins.jpg",
+      "initialSize" : 39303,
+      "fileType" : 4096
     },
     "\/js\/foundation\/foundation.joyride.js" : {
       "ignoreWasSetByUser" : 1,
@@ -5935,6 +5871,19 @@
       "outputAbbreviatedPath" : "\/js\/foundation\/foundation.joyride-ck.js",
       "fileType" : 64
     },
+    "\/_site\/docs\/changelog.html.erb" : {
+=======
+    "\/docs\/components\/tooltips.html.erb" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/changelog.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/docs\/img\/demos\/demo3.jpg" : {
 =======
       "inputAbbreviatedPath" : "\/docs\/components\/tooltips.html.erb",
@@ -5942,15 +5891,6 @@
       "fileType" : 2048
     },
     "\/server\/docs\/components\/orbit.html.erb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/server\/docs\/components\/orbit.html.erb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/server\/img\/gallery\/thumbs\/2.jpg" : {
 >>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5963,16 +5903,35 @@
       "initialSize" : 144190,
       "fileType" : 4096
     },
-    "\/docs\/components\/tooltips.html.erb" : {
+    "\/docs\/img\/demos\/demo2.jpg" : {
+=======
+      "inputAbbreviatedPath" : "\/server\/docs\/components\/orbit.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/server\/img\/gallery\/thumbs\/2.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/docs\/components\/tooltips.html.erb",
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo2.jpg",
+      "initialSize" : 181111,
+      "fileType" : 4096
+    },
+    "\/_site\/lib\/foundation\/generators\/templates\/application.html.erb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/lib\/foundation\/generators\/templates\/application.html.erb" : {
+    "\/docs\/components\/tooltips.html.erb" : {
 =======
       "inputAbbreviatedPath" : "\/server\/img\/gallery\/thumbs\/2.jpg",
       "processed" : 0,
@@ -5998,7 +5957,27 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
-      "inputAbbreviatedPath" : "\/_site\/lib\/foundation\/generators\/templates\/application.html.erb",
+      "inputAbbreviatedPath" : "\/docs\/components\/tooltips.html.erb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/docs\/components\/type.html.erb" : {
+=======
+      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_progress-bars.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_progress-bars.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/docs\/img\/demos\/demo3.jpg" : {
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
+      "inputAbbreviatedPath" : "\/_site\/docs\/components\/type.html.erb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -6012,26 +5991,15 @@
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/js\/foundation\/index-ck.js",
       "fileType" : 64
-=======
-      "inputAbbreviatedPath" : "\/scss\/foundation\/components\/_progress-bars.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/scss\/foundation\/css\/_progress-bars.css",
-      "fileType" : 4,
-      "debugStyle" : 0
     },
-    "\/docs\/img\/demos\/demo3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
+=======
       "inputAbbreviatedPath" : "\/docs\/img\/demos\/demo3.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/docs\/img\/demos\/demo3.jpg",
       "initialSize" : 144190,
       "fileType" : 4096
->>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     },
+>>>>>>> a217f2ceb2ae71610f9fc952b249b35815171e59
     "\/_site\/docs\/components\/global.html.erb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
