@@ -2,6 +2,8 @@
 
 title: Portfolio
 layout: portfolio
+class: portfolio
+permalink: /portfolio/
 
 pictures:
 
@@ -65,7 +67,7 @@ pictures:
     full: ordrin.jpg
     label: Ordr.in - Facebook Mockup
     description: Ordr.in is a food ordering API that was part of the TechStars 2011 Summer Program. They needed a white-label Facebook application to give to their delivery partners throughout the US. I was brought in to brainstorm on the timeline of the product, then build out the vision, UI/UX, and finally the visual design. When we showed it to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
-    url: ordrin.com
+    url: /ordrin
   
   - thumb: muffins.jpg
     full: muffins.png

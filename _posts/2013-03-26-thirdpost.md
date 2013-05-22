@@ -1,6 +1,7 @@
 ---
 title: High Fructose Updates
 layout: post
+class: panda
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
