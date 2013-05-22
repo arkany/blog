@@ -38,6 +38,10 @@ a, i{
 	}
 }
 
+.pad-me{
+	padding-bottom: 24px !important;
+}
+
 
 
 div.sidebar{
@@ -194,17 +198,8 @@ div.portfolio{
 }
 
 //---------------------------PORTFOLIO - ORDRIN-------------------------------//
-#ordrin{
-	border:1px solid blue;
-	
-	div#main{
-		background: url('/img/gallery/ordr/ordr-0.jpg') no-repeat 0 0;
-		width: 1024px;
-		height: 600px;
-		border: 1px solid red;
-	}
-
-
+.pad-me{
+	padding-bottom: 12px;
 }
 
 

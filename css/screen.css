@@ -4377,6 +4377,9 @@ a, i {
   a:active, i:active {
     color: #67625f; }
 
+.pad-me {
+  padding-bottom: 24px !important; }
+
 div.sidebar {
   font-family: "Poly", sans-serif; }
   div.sidebar div#about-img {
@@ -4477,13 +4480,8 @@ div.header {
 div.portfolio ul li {
   text-align: center; }
 
-#ordrin {
-  border: 1px solid blue; }
-  #ordrin div#main {
-    background: url("/img/gallery/ordr/ordr-0.jpg") no-repeat 0 0;
-    width: 1024px;
-    height: 600px;
-    border: 1px solid red; }
+.pad-me {
+  padding-bottom: 12px; }
 
 div.footer {
   background-color: #413a39;

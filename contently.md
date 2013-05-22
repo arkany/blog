@@ -18,8 +18,8 @@ permalink: /portfolio/contently/
 	<h1 class="category grey clear">Icon Design</h1>
 	<p>Contently wanted an icon for their Twitter feed, so I tried my hand at visual.  I drew some initial sketches before we decided on an iOS style keyboard using the letter C.  A few iterations, et voila.  I wanted to maintain the Contently blue and I was playing with the angle a bit before they decided on the lower right view.</p>
 	<h2>Iteration Process</h2>
-	<img src="../../img/gallery/contently/contently-2.jpg" class="large-4 " caption="concept">
-	<img src="../../img/gallery/contently/contently-3.jpg" class="large-4 " caption="research">
+	<img src="../../img/gallery/contently/contently-2.jpg" class="large-4 pad-me" caption="concept">
+	<img src="../../img/gallery/contently/contently-3.jpg" class="large-4 pad-me" caption="research">
 	<img src="../../img/gallery/contently/contently-4.png" class="large-4 last" caption="first iteration">
 
 	<h2>Final</h2>
