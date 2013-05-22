@@ -40,6 +40,7 @@ pictures:
     full: http://placehold.it/500x500
     label: Food Ordering Application
     description: I was the visual designer for the food ordering portion of an iPad application. It's initial rollout was in LaGuardia Airport in New York and has since then been placed in 4 more airports.
+    url: contently
  
   - thumb: gojotter-mobile.jpg
     full: http://placehold.it/500x500
@@ -67,7 +68,7 @@ pictures:
     full: ordrin.jpg
     label: Ordr.in - Facebook Mockup
     description: Ordr.in is a food ordering API that was part of the TechStars 2011 Summer Program. They needed a white-label Facebook application to give to their delivery partners throughout the US. I was brought in to brainstorm on the timeline of the product, then build out the vision, UI/UX, and finally the visual design. When we showed it to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
-    url: /ordrin
+    url: ordrin
   
   - thumb: muffins.jpg
     full: muffins.png
