@@ -1,6 +1,8 @@
 My Portfolio Site
 =====================
 
-Nothing to see here yet.
+Nothing special.
 
-Using jekyll / foundation / and the kindness of strangers.
+Using jekyll / foundation / the kindness of strangers.
+
+version 0.1
