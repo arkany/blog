@@ -26,7 +26,7 @@ pictures:
     full: pystache.png
     label: Pystache Logo
     description: Pystache is an open source project, specifically a Python implementation of the Mustache templating system. I respect the project, especially because the mascot simply had to be a python with a mustache. I designed the logo on spec and then pushed it to the Github account. I was fortunate enough to be approved. Technically it is a WIP. I plan to add better details to the back and modify some details.
-    url: https://github.com/defunkt/pystache
+    url: ../portfolio/pystache
 
   - thumb: mobintent.jpg
     full: mobintent.jpg
