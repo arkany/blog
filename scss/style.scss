@@ -31,8 +31,8 @@ a, i{
 	text-decoration: none;
 
 	&:hover{
-		text-decoration: underline;
-		color: hue($color4,15%);
+		//text-decoration: underline;
+		color: lighten($color4,15%);
 		transition: all 0.3s;
 
 	}

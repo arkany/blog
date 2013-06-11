@@ -16,11 +16,23 @@ pictures:
     label: Upcoming Project
     description: I can't talk too much about this particular project, other than it is a redesign for a startup. Super interesting project with some smart people at the helm, so I'm excited to have it out in the wild. This is a preview.
 
+  - thumb: bookbridge.jpg
+    full: bookbridge.png
+    label: Logo Design
+    description: Bookbridge writeup that is smart and stuff.
+    url: ../portfolio/bookbridge
+
   - thumb: snapscouts.jpg
     full: snapscouts.png
     label: Snapscouts
     description: SnapScouts is agitprop software theatre. SnapScouts received over 80,000 hits was mentioned in several blogs including Wired, LA Times, Reddit and Download Squad. The Android application and accompanying site lets you download the app to your Android phone. The app ultimately promotes kids spying on your neighborhood and parents. This is, of course, a terrible idea, but by creating awareness, it will hopefully promote privacy.
-    url: snapscouts.org
+    url: ../portfolio/snapscouts
+
+  - thumb: potent.jpg
+    full: potent.png
+    label: Logo Design
+    description: My wife and I set out to create our own comic book. Well, every comic book needs it's own publisher.  We set out to create a logo that would showcase our wonderfully warped sensibilities.
+    url: ../portfolio/potentpress
 
   - thumb: pystache.jpg
     full: pystache.png
@@ -59,8 +71,8 @@ pictures:
 
   - thumb: wearwhere.jpg
     full: wearwhere.png
-    label: Label 7
-    description: An Agitprop mobile app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
+    label: WearWhere
+    description: An agitprop mobile web app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
  
   - thumb: ordrin.jpg
     <!-- full: ordr/ordr-0.jpg -->
