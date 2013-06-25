@@ -1,3 +1,24 @@
+//SCSS FILTER MIXINS
+// https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html 
+//
+// grayscale      ex: filter: grayscale(100%);
+// sepia          ex: filter: sepia(100%);
+// saturate       ex: filter: saturate(0%);
+// hue-rotate     ex: filter: hue-rotate(45deg);
+// invert         ex: filter: invert(100%);
+// brightness     ex: filter: brightness(15%);
+// contrast       ex: filter: contrast(200%);
+// blur           ex: filter: blur(2px);
+// TO BE WRITTEN @include filter(saturate,50%);
+ 
+@mixin filter($filter-type,$filter-amount) { 
+  -webkit-filter: $filter-type+unquote('(#{$filter-amount})');
+  -moz-filter: $filter-type+unquote('(#{$filter-amount})');
+  -ms-filter: $filter-type+unquote('(#{$filter-amount})');
+  -o-filter: $filter-type+unquote('(#{$filter-amount})');
+  filter: $filter-type+unquote('(#{$filter-amount})');
+}
+
 .og-grid {
 	list-style: none;
 	padding: 20px 0;
@@ -19,6 +40,18 @@
 	outline: none;
 	display: block;
 	position: relative;
+	@include filter(saturate,50%);
+}
+
+.og-grid li > a:hover,
+.og-grid li > a img:hover {
+	@include filter(saturate,100%);
+	
+}
+
+.og-grid li.og-expanded a, 
+.og-grid li.og-expanded a img{
+	@include filter(saturate,100%);
 }
 
 .og-grid li.og-expanded > a::after {

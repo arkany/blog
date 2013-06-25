@@ -20,8 +20,8 @@ pictures:
 
   - thumb: bookbridge.jpg
     full: bookbridge.png
-    label: Logo Design
-    description: Bookbridge writeup that is smart and stuff.
+    label: Bookbridge - Philanthropical Book Ecosystem
+    description: Bookbridge was my thesis for ITP in the spring of 2011.  My thesis included a prototype site, along with a paper detailing the benefits of the ecosystem for the ebook provider, the libary system and book lovers alike.
     url: ../portfolio/bookbridge
 
   - thumb: snapscouts.jpg
@@ -50,18 +50,9 @@ pictures:
  
   - thumb: contently-logo.jpg
     full: http://placehold.it/500x500
-    label: Food Ordering Application
-    description: I was the visual designer for the food ordering portion of an iPad application. It's initial rollout was in LaGuardia Airport in New York and has since then been placed in 4 more airports.
-<<<<<<< HEAD
-    url: contently
-=======
+    label: Contently - Icon Design & Template Design
+    description: Contently is the anti-content farm, a platform where real journalists can manage their freelance careers, and where brands-turned-publishers can create and manage editorial operations. They were part of the TechStars NYC Summer program and I had the opportunity to work with this amazing team.
     url: ../portfolio/contently
->>>>>>> 4bf8a3a5473c67555188cc1d1e98463033726e2a
- 
-  - thumb: gojotter-mobile.jpg
-    full: http://placehold.it/500x500
-    label: GoJotter
-    description: This is the description of this particular project.
 
   - thumb: piictu.jpg
     full: piictu.jpg
@@ -81,22 +72,16 @@ pictures:
     description: An agitprop mobile web app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
  
   - thumb: ordrin.jpg
-    <!-- full: ordr/ordr-0.jpg -->
+    full: ordr/ordr-0.jpg
     label: Ordr.in - Facebook Mockup
     description: Ordr.in is a food ordering API that was part of the TechStars 2011 Summer Program. They needed a white-label Facebook application to give to their delivery partners throughout the US. I was brought in to brainstorm on the timeline of the product, then build out the vision, UI/UX, and finally the visual design. When we showed it to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
-<<<<<<< HEAD
-    url: ordrin
-=======
     url: ../portfolio/ordrin
->>>>>>> 4bf8a3a5473c67555188cc1d1e98463033726e2a
   
   - thumb: muffins.jpg
     full: muffins.png
     label: Muffins 2 Muffins
     description: Muffins2Muffins was conceived by Matt Ganuchau who was lead developer and I provided development as well as the visual designer for the eventual Android application. It was eventually abandoned as the needs of grad school quickly took hold.
     url: ../portfolio/muffins
-
-
   
   - thumb: pegleggy.jpg
     full: pegleggy.jpg
