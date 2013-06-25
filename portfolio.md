@@ -18,17 +18,29 @@ pictures:
     label: Upcoming Project
     description: I can't talk too much about this particular project, other than it is a redesign for a startup. Super interesting project with some smart people at the helm, so I'm excited to have it out in the wild. This is a preview.
 
+  - thumb: bookbridge.jpg
+    full: bookbridge.png
+    label: Logo Design
+    description: Bookbridge writeup that is smart and stuff.
+    url: ../portfolio/bookbridge
+
   - thumb: snapscouts.jpg
     full: snapscouts.png
     label: Snapscouts
     description: SnapScouts is agitprop software theatre. SnapScouts received over 80,000 hits was mentioned in several blogs including Wired, LA Times, Reddit and Download Squad. The Android application and accompanying site lets you download the app to your Android phone. The app ultimately promotes kids spying on your neighborhood and parents. This is, of course, a terrible idea, but by creating awareness, it will hopefully promote privacy.
-    url: snapscouts.org
+    url: ../portfolio/snapscouts
+
+  - thumb: potent.jpg
+    full: potent.png
+    label: Logo Design
+    description: My wife and I set out to create our own comic book. Well, every comic book needs it's own publisher.  We set out to create a logo that would showcase our wonderfully warped sensibilities.
+    url: ../portfolio/potentpress
 
   - thumb: pystache.jpg
     full: pystache.png
     label: Pystache Logo
     description: Pystache is an open source project, specifically a Python implementation of the Mustache templating system. I respect the project, especially because the mascot simply had to be a python with a mustache. I designed the logo on spec and then pushed it to the Github account. I was fortunate enough to be approved. Technically it is a WIP. I plan to add better details to the back and modify some details.
-    url: https://github.com/defunkt/pystache
+    url: ../portfolio/pystache
 
   - thumb: mobintent.jpg
     full: mobintent.jpg
@@ -40,7 +52,11 @@ pictures:
     full: http://placehold.it/500x500
     label: Food Ordering Application
     description: I was the visual designer for the food ordering portion of an iPad application. It's initial rollout was in LaGuardia Airport in New York and has since then been placed in 4 more airports.
+<<<<<<< HEAD
     url: contently
+=======
+    url: ../portfolio/contently
+>>>>>>> 4bf8a3a5473c67555188cc1d1e98463033726e2a
  
   - thumb: gojotter-mobile.jpg
     full: http://placehold.it/500x500
@@ -61,19 +77,24 @@ pictures:
 
   - thumb: wearwhere.jpg
     full: wearwhere.png
-    label: Label 7
-    description: An Agitprop mobile app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
+    label: WearWhere
+    description: An agitprop mobile web app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
  
   - thumb: ordrin.jpg
-    full: ordrin.jpg
+    <!-- full: ordr/ordr-0.jpg -->
     label: Ordr.in - Facebook Mockup
     description: Ordr.in is a food ordering API that was part of the TechStars 2011 Summer Program. They needed a white-label Facebook application to give to their delivery partners throughout the US. I was brought in to brainstorm on the timeline of the product, then build out the vision, UI/UX, and finally the visual design. When we showed it to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
+<<<<<<< HEAD
     url: ordrin
+=======
+    url: ../portfolio/ordrin
+>>>>>>> 4bf8a3a5473c67555188cc1d1e98463033726e2a
   
   - thumb: muffins.jpg
     full: muffins.png
     label: Muffins 2 Muffins
     description: Muffins2Muffins was conceived by Matt Ganuchau who was lead developer and I provided development as well as the visual designer for the eventual Android application. It was eventually abandoned as the needs of grad school quickly took hold.
+    url: ../portfolio/muffins
 
 
   

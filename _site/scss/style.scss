@@ -28,12 +28,15 @@ body{
 
 a, i{
 	color: $color4;
+	text-decoration: none;
 
 	&:hover{
-		color: lighten($color4,10%);
-		transition: color 0.3s;
+		//text-decoration: underline;
+		color: lighten($color4,15%);
+		transition: all 0.3s;
+
 	}
-	&:active{
+	&:active, .active{
 		color: darken($color4,10%);	
 	}
 }
@@ -225,4 +228,10 @@ div.footer{
 		// }
 	}
 
+}
+
+@media #{$small} { 
+	div.header div#header-content a.brand{
+		font-size: 75px;
+	}
 }
