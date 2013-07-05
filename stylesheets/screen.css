@@ -4475,7 +4475,7 @@ div.footer {
 
 .og-expander {
   position: absolute;
-  background: #ddd;
+  background: #413a39;
   top: auto;
   left: 0;
   width: 100%;
@@ -4515,7 +4515,7 @@ div.footer {
 
 .og-close:hover::before,
 .og-close:hover::after {
-  background: #333; }
+  background: #fff; }
 
 .og-fullimg,
 .og-details {
@@ -4540,13 +4540,14 @@ div.footer {
   font-weight: 300;
   font-size: 52px;
   padding: 40px 0 10px;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  color: #696362; }
 
 .og-details p {
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
-  color: #999; }
+  color: #f0e9e5; }
 
 .og-details a {
   font-weight: 700;
@@ -4585,39 +4586,39 @@ div.footer {
 
 @-webkit-keyframes loader {
   0% {
-    background: #ddd; }
+    background: #413a39; }
 
   33% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #f0e9e5, -15px 30px 1px #413a39; }
 
   66% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; } }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #413a39, -15px 30px 1px #f0e9e5; } }
 
 @-moz-keyframes loader {
   0% {
-    background: #ddd; }
+    background: #413a39; }
 
   33% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #f0e9e5, -15px 30px 1px #413a39; }
 
   66% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; } }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #413a39, -15px 30px 1px #f0e9e5; } }
 
 @keyframes loader {
   0% {
-    background: #ddd; }
+    background: #413a39; }
 
   33% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #f0e9e5, -15px 30px 1px #413a39; }
 
   66% {
-    background: #ccc;
-    box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; } }
+    background: #f0e9e5;
+    box-shadow: 0 0 1px #f0e9e5, 15px 30px 1px #413a39, -15px 30px 1px #f0e9e5; } }
 
 @media screen and (max-width: 830px) {
   .og-expander h3 {

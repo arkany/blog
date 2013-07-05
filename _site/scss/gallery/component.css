@@ -37,7 +37,7 @@
 
 .og-expander {
 	position: absolute;
-	background: #ddd;
+	background: #413a39;
 	top: auto;
 	left: 0;
 	width: 100%;
@@ -125,7 +125,7 @@
 .og-details a {
 	font-weight: 700;
 	font-size: 16px;
-	color: #333;
+	color: #827b77;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 20px;

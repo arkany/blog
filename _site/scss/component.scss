@@ -70,7 +70,7 @@
 
 .og-expander {
 	position: absolute;
-	background: #ddd;
+	background: $color1;
 	top: auto;
 	left: 0;
 	width: 100%;
@@ -115,7 +115,7 @@
 
 .og-close:hover::before,
 .og-close:hover::after {
-	background: #333;
+	background: #fff;
 }
 
 .og-fullimg,
@@ -146,13 +146,14 @@
 	font-size: 52px;
 	padding: 40px 0 10px;
 	margin-bottom: 10px;
+	color: $color3;
 }
 
 .og-details p {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 22px;
-	color: #999;
+	color: $color2;
 }
 
 .og-details a {
@@ -195,21 +196,21 @@
 }
 
 @-webkit-keyframes loader {
-	0% { background: #ddd; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
+	0% { background: $color1; }
+	33% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color2, -15px 30px 1px $color1; }
+	66% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color1, -15px 30px 1px $color2; }
 }
 
 @-moz-keyframes loader {
-	0% { background: #ddd; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
+	0% { background: $color1; }
+	33% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color2, -15px 30px 1px $color1; }
+	66% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color1, -15px 30px 1px $color2; }
 }
 
 @keyframes loader {
-	0% { background: #ddd; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
+	0% { background: $color1; }
+	33% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color2, -15px 30px 1px $color1; }
+	66% { background: $color2; box-shadow: 0 0 1px $color2, 15px 30px 1px $color1, -15px 30px 1px $color2; }
 }
 
 @media screen and (max-width: 830px) {
