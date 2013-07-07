@@ -68,23 +68,27 @@ div.sidebar{
 
 div.content {
 
+	*{
+		font-family: 'Poly', sans-serif;	
+	}
+
 	h1{
 		font-size: 4em;
 		margin-bottom: 1px;
-		font-family: 'Poly', sans-serif;
+		//font-family: 'Poly', sans-serif;
 		margin-top: 67px;
 		color: $color5;
 	}
 
 	h2{
 		font-size: 2em;
-		font-family: 'Poly', sans-serif;
+		//font-family: 'Poly', sans-serif;
 	}
 
 	h3{
 		font-size: $h1-font-size;
 		margin-bottom: 1px;
-		font-family: 'Poly', sans-serif;
+		//font-family: 'Poly', sans-serif;
 		margin-top: 67px;
 	}
 
@@ -96,7 +100,7 @@ div.content {
 	}
 
 	p{
-		font-family: 'Poly', sans-serif;
+		//font-family: 'Poly', sans-serif;
 		font-weight: normal;
 		font-size: 1.5em;
 		line-height: 1.7;
@@ -110,7 +114,7 @@ div.content {
 	}
 
 	li{
-		font-family: 'Poly', sans-serif;
+		//font-family: 'Poly', sans-serif;
 		font-weight: normal;
 		font-size: 1.5em;
 		line-height: 1em;
@@ -138,7 +142,7 @@ div.header{
 	//background-color:#333;
 	min-height:450px;
 	margin-bottom: 30px;
-	font-family: 'Lato';
+	font-family: 'Lato', sans-serif;
 	color: #bbb7b2;
 
 	div#header-content{
@@ -205,6 +209,72 @@ div.portfolio{
 //---------------------------PORTFOLIO - ORDRIN-------------------------------//
 .pad-me{
 	padding-bottom: 12px;
+}
+
+//---------------------------CONTACT FORM-------------------------------//
+//THIS WILL BE MESSY
+
+.ss-form-entry{
+
+	input[type="submit"]{
+		border: 2px solid $color1;
+		padding: 5px 15px;
+		background-color: rgba(0,0,0,0);
+
+		&:active{
+			background-color: $color1;
+			color: $color2;
+		}
+	}
+}
+
+.ss-text{
+	.ss-q-item-label{
+		float: left;
+		display: block;
+		height:20px;
+		width: 47px;
+	}
+}
+
+.ss-paragraph-text{
+	.ss-q-item-label{
+		float: left;
+		display: block;
+		height:20px;
+		width: 70px;
+		margin-bottom: 10px;
+	}
+
+}
+
+.ss-required-asterisk{
+	float:right;
+	margin-top:-24px;
+}
+
+ol{
+	@extend .row;
+
+	*{
+		@extend h4;
+
+	}
+
+	.ss-form-question{
+		@extend .large-6;
+		@extend .columns;
+		//float:left;
+
+		p{
+			display: none;
+		}
+	}
+}
+
+.ss-navigate{
+	clear:left;
+	margin-left: 15px;
 }
 
 
