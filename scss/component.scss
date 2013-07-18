@@ -58,6 +58,7 @@
 	@include filter(saturate,100%);
 }
 
+//THE CARET
 .og-grid li.og-expanded > a::after {
 	top: auto;
 	border: solid transparent;
@@ -66,7 +67,8 @@
 	width: 0;
 	position: absolute;
 	pointer-events: none;
-	border-bottom-color: #ddd;
+	//border-bottom-color: #ddd;
+	border-bottom-color: $color1;
 	border-width: 15px;
 	left: 50%;
 	margin: -20px 0 0 -15px;
@@ -105,7 +107,7 @@
 	width: 100%;
 	top: 50%;
 	height: 1px;
-	background: #888;
+	background: $color2;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -124,7 +126,7 @@
 
 .og-fullimg,
 .og-details {
-	width: 50%;
+	width: 35%;
 	float: left;
 	height: 100%;
 	overflow: hidden;
@@ -132,6 +134,7 @@
 }
 
 .og-details {
+	width: 65%;
 	padding: 0 40px 0 20px;
 }
 

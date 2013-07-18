@@ -14,32 +14,18 @@ pictures:
     url: http://www.nytimes.com/2013/01/22/business/at-la-guardia-delta-uses-ipads-to-fill-the-wait-time.html
     hlabel: New York times Article
 
-  - thumb: upcoming.jpg
-    full: upcoming.jpg
-    label: Site Design
-    description: This is an site redesign for a startup. Super interesting project with some smart people at the helm. This design was not used in the final iteration.
-    url: ../portfolio/upcoming
-    hlabel: Learn More
-
-  - thumb: bookbridge.jpg
-    full: bookbridge.png
-    label: Bookbridge - Thesis
-    description: Bookbridge was my thesis for ITP in the spring of 2011.  It was a philanthropic Book Lifecycle which allowed the book retailer, libraries and avid readers to help each other. My thesis included a prototype site, along with a paper detailing the benefits of the ecosystem for the ebook provider, the libary system and book lovers alike.
-    url: ../portfolio/bookbridge
-    hlabel: Learn More
-
-  - thumb: snapscouts.jpg
+  - thumb: snapscouts-alt.jpg
     full: snapscouts.png
     label: Snapscouts - Android
     description: SnapScouts is agitprop software theatre. SnapScouts received over 80,000 hits was mentioned in several blogs including Wired, LA Times, Reddit and Download Squad. The Android application and accompanying site ultimately promotes kids spying on your neighborhood and parents. This is, of course, a terrible idea, but by creating awareness, it will hopefully promote privacy.
     url: ../portfolio/snapscouts
     hlabel: Learn More
 
-  - thumb: potent.jpg
-    full: potent-press.png
-    label: Logo Design
-    description: My wife and I set out to create our own comic book. Well, every comic book needs it's own publisher.  We set out to create a logo that would showcase our wonderfully warped sensibilities.
-    url: ../portfolio/potentpress
+  - thumb: apple.jpg
+    full: apple.png
+    label: Apple - Design Internship
+    description: I traveled to Cupertino, CA for a design internship with Apple's MobileMe Design team.  
+    url: ../portfolio/apple
     hlabel: Learn More
 
   - thumb: pystache.jpg
@@ -49,19 +35,54 @@ pictures:
     url: ../portfolio/pystache
     hlabel: Learn More
 
+  - thumb: potent.jpg
+    full: potent-press.png
+    label: Logo Design
+    description: My wife and I set out to create our own comic book. Well, every comic book needs it's own publisher.  We set out to create a logo that would showcase our wonderfully warped sensibilities.
+    url: ../portfolio/potentpress
+    hlabel: Learn More
+
+  - thumb: ordrin.jpg
+    full: ordr/ordr-0.jpg
+    label: Facebook Mockup
+    description: Ordr.in is a food ordering API from TechStars 2011. They needed a white-label Facebook app. I was brought in to brainstorm, UI/UX, and match their existing design. When shown to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
+    url: ../portfolio/ordrin
+    hlabel: Learn More
+
+  - thumb: contently.jpg
+    full: contently.jpg
+    label: Icon & Template Design
+    description: Contently is the anti-content farm, a platform where journalists can manage their freelance careers, and where brands-turned-publishers can run editorial operations. I had the opportunity to work with this amazing team at TechStars 2011.
+    url: ../portfolio/contently
+    hlabel: Learn More
+
+  - thumb: planting.jpg
+    full: planting.jpg
+    label: Planting Steps, 2011
+    description: The project is a vertical, hydroponic farm flat pack, so anyone who can put together an Ikea bookshelf will be fully prepared to put together our farm. In short, it's Ikea meets Whole Foods.
+    url: http://www.core77.com/gallery/itp-winter-show-2010/59.asp?tag=Designing%20Living%20Systems
+    hlabel: Core77 Gallery
+
+  - thumb: bookbridge.jpg
+    full: bookbridge.png
+    label: Bookbridge - Thesis
+    description: Bookbridge was my thesis for ITP in the spring of 2011.  It was a philanthropic Book Lifecycle which allowed the book retailer, libraries and avid readers to help each other. My thesis included a prototype site, along with a paper detailing the benefits of the ecosystem for the ebook provider, the libary system and book lovers alike.
+    url: ../portfolio/bookbridge
+    hlabel: Learn More
+
+  - thumb: upcoming.jpg
+    full: upcoming.jpg
+    label: Site Design
+    description: This is an site redesign for a startup. Super interesting project with some smart people at the helm. This design was not used in the final iteration.
+    url: ../portfolio/upcoming
+    hlabel: Learn More
+
   - thumb: mobintent.jpg
     full: mobintent.jpg
     label: MobIntent Logo
     description: MobIntent was a platform to run optimized mobile advertising campaigns. They needed a new logo to showcase their new brand. I designed the logo and overall brand identity to emphasize the classy, sharp, luxury class work into the current mobile ad landscape.
     url: http://thenextweb.com/insider/2011/10/18/meet-the-12-new-techstars-companies-mayor-bloomberg-approved/
     hlabel: Next Web Article
- 
-  - thumb: contently-logo.jpg
-    full: contently.jpg
-    label: Contently - Icon & Template
-    description: Contently is the anti-content farm, a platform where real journalists can manage their freelance careers, and where brands-turned-publishers can create and manage editorial operations. They were part of the TechStars NYC Summer program and I had the opportunity to work with this amazing team.
-    url: ../portfolio/contently
-    hlabel: Learn More
 
   - thumb: piictu.jpg
     full: piictu.jpg
@@ -83,13 +104,6 @@ pictures:
     description: An agitprop mobile web app where people could select from their favorite brands, only to discover the horrible working conditions of the workers of their favorite clothes. The hope is people who used the app would reconsider the value of their clothes if they knew the people making the shirts cannot afford the very shirts they make.
     url: ../portfolio/wearwhere
     hlabel: Learn More
- 
-  - thumb: ordrin.jpg
-    full: ordr/ordr-0.jpg
-    label: Ordr.in - Facebook Mockup
-    description: Ordr.in is a food ordering API from TechStars 2011. They needed a white-label Facebook application to give their delivery partners in the US. I was brought in to brainstorm, create the vision, UI/UX, and finally the visual design. When shown to Facebook, they said it was, &quot;One of the best uses of the platform for commerce we've ever seen.&quot;
-    url: ../portfolio/ordrin
-    hlabel: Learn More
   
   - thumb: muffins.jpg
     full: muffins.png
@@ -102,11 +116,7 @@ pictures:
     full: pegleggy.jpg
     label: Pegleggy, 2011
     description: Pegleggy is a 3D rendered model using Vectorworks. Part of a larger world of characters, the wartorn Pegleggy is there to remind the group of the dangers of repeating history's mistakes. Designed with a pop surrealist aesthetic, Pegleggy was accepted into the ITP Spring Show 2011.
+    url: ../portfolio/pegleggy
+    hlabel: Learn More
   
-  - thumb: planting.jpg
-    full: planting.jpg
-    label: Planting Steps, 2011
-    description: The project is a vertical, hydroponic farm flat pack, so anyone who can put together an Ikea bookshelf will be fully prepared to put together our farm. In short, it's Ikea meets Whole Foods.
-    url: http://www.core77.com/gallery/itp-winter-show-2010/59.asp?tag=Designing%20Living%20Systems
-    hlabel: Core77 Gallery
 ---

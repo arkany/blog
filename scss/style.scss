@@ -1,3 +1,33 @@
+//---------------------------MIXIN TRANSITION-------------------------------//
+@mixin transition($transition-property, $transition-time, $method) {
+	-webkit-transition: $transition-property $transition-time $method;
+	-moz-transition: $transition-property $transition-time $method;
+	-ms-transition: $transition-property $transition-time $method;
+	-o-transition: $transition-property $transition-time $method;
+	transition: $transition-property $transition-time $method;
+}
+/* Usage - Stick into the top of your SCSS sheet and @include where needed for cross browser transitions. 
+
+.class {
+     @include transition($transition-property, $transition-time, $method);
+}
+
+$transition-property = the property you want to transition
+$transition-time = seconds you want the transition to last
+$method = how you want it to transition - e.g. ease-in-out
+
+Usage example;
+
+-------------
+
+.item {
+    @include transition(padding, 1s, ease-in-out);
+}
+
+-------------
+
+*/
+
 
 
 $color1: #413a39; // second dark color
@@ -35,12 +65,15 @@ a, i{
 	&:hover{
 		//text-decoration: underline;
 		color: lighten($color4,15%);
-		transition: all 0.3s;
 
 	}
 	&:active, .active{
 		color: darken($color4,10%);	
 	}
+}
+
+.blank{
+	border: 1px solid rgba(0,0,0,0.1);
 }
 
 .pad-me{
@@ -144,6 +177,11 @@ div.header{
 	margin-bottom: 30px;
 	font-family: 'Lato', sans-serif;
 	color: #bbb7b2;
+
+	p a:hover, ul li a:hover{
+		border-bottom: 1px solid rgba($color2, 0.2);
+		//@include transition(border-bottom, 200ms, ease-in);
+	}
 
 	div#header-content{
 		text-align: center;
